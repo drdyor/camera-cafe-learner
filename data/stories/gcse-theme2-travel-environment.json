@@ -1,0 +1,58 @@
+{
+  "id": "gcse-theme2-travel-environment",
+  "title": "Un Viaggio Sostenibile a Roma",
+  "englishTitle": "A Sustainable Trip to Rome",
+  "level": "A1-A2",
+  "gcseTheme": "Theme 2: Local, National, International and Global Areas",
+  "gcseTopic": "Travel + Global Issues (Environment)",
+  "examFocus": "Speaking photo card (holidays), role play (transport), environment opinions",
+  "lines": [
+    {"italian": "Quest'estate vado a Roma con la mia famiglia.", "english": "This summer I am going to Rome with my family."},
+    {"italian": "Roma è la capitale d'Italia. È una città bellissima.", "english": "Rome is the capital of Italy. It is a beautiful city."},
+    {"italian": "Andiamo in treno. Non andiamo in aereo.", "english": "We are going by train. We are not going by plane."},
+    {"italian": "Il treno è più ecologico dell'aereo.", "english": "The train is more ecological than the plane."},
+    {"italian": "Il viaggio dura quattro ore.", "english": "The journey lasts four hours."},
+    {"italian": "Mio padre compra i biglietti online.", "english": "My father buys the tickets online."},
+    {"italian": "Un biglietto costa cinquanta euro.", "english": "One ticket costs fifty euros."},
+    {"italian": "Dobbiamo cambiare treno a Milano.", "english": "We have to change trains in Milan."},
+    {"italian": "Mia madre non ama viaggiare.", "english": "My mother doesn't love traveling."},
+    {"italian": "Lei preferisce restare a casa.", "english": "She prefers to stay at home."},
+    {"italian": "Ma Roma è speciale. Lei vuole vedere Roma.", "english": "But Rome is special. She wants to see Rome."},
+    {"italian": "A Roma c'è il Colosseo. È molto antico.", "english": "In Rome there is the Colosseum. It is very ancient."},
+    {"italian": "Voglio fare molte fotografie.", "english": "I want to take many photos."},
+    {"italian": "Penserò all'ambiente durante il viaggio.", "english": "I will think about the environment during the trip."},
+    {"italian": "Non useremo la macchina a Roma.", "english": "We will not use the car in Rome."},
+    {"italian": "Useremo i mezzi pubblici.", "english": "We will use public transport."},
+    {"italian": "Prenderemo l'autobus e la metropolitana.", "english": "We will take the bus and the metro."},
+    {"italian": "Cammineremo molto. Camminare fa bene.", "english": "We will walk a lot. Walking is good."},
+    {"italian": "L'ambiente è importante per me.", "english": "The environment is important to me."},
+    {"italian": "L'inquinamento è un grande problema.", "english": "Pollution is a big problem."},
+    {"italian": "Le macchine inquinano l'aria.", "english": "Cars pollute the air."},
+    {"italian": "Dobbiamo proteggere l'ambiente.", "english": "We must protect the environment."},
+    {"italian": "Il riscaldamento globale è pericoloso.", "english": "Global warming is dangerous."},
+    {"italian": "Riciclo la plastica e la carta.", "english": "I recycle plastic and paper."},
+    {"italian": "Non uso le bottiglie di plastica.", "english": "I don't use plastic bottles."},
+    {"italian": "Uso una borraccia d'acciaio.", "english": "I use a steel water bottle."},
+    {"italian": "Questo viaggio sarà ecologico.", "english": "This trip will be ecological."},
+    {"italian": "Mi piace viaggiare in modo sostenibile.", "english": "I like to travel in a sustainable way."},
+    {"italian": "Roma è bellissima. Non vedo l'ora!", "english": "Rome is beautiful. I can't wait!"},
+    {"italian": "Voglio proteggere la città che amo.", "english": "I want to protect the city that I love."}
+  ],
+  "gcseVocabulary": {
+    "travel": ["treno", "aereo", "biglietto", "viaggio", "andare"],
+    "transport": ["autobus", "metropolitana", "macchina", "mezzi pubblici", "camminare"],
+    "environment": ["ambiente", "ecologico", "inquinamento", "riciclo", "riscaldamento globale"],
+    "places": ["Roma", "Milano", "Italia", "città", "Colosseo"]
+  },
+  "examPractice": {
+    "rolePlay": "Ask for train tickets. Where are you going? When? How much?",
+    "photoCard": "Describe a photo of Rome/Colosseum. What can you see? What are people doing?",
+    "opinionQuestion": "What do you think about the environment? Is travel bad for the planet?",
+    "translationDrill": [
+      {"en": "I am going to Rome", "it": "Vado a Roma"},
+      {"en": "The train is more ecological", "it": "Il treno è più ecologico"},
+      {"en": "Pollution is a problem", "it": "L'inquinamento è un problema"}
+    ]
+  },
+  "generatedAt": "2026-04-05T22:00:00.000Z"
+}

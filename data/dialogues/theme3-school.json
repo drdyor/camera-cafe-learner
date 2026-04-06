@@ -1,0 +1,39 @@
+{
+  "id": "theme3-school",
+  "title": "A Scuola",
+  "englishTitle": "At School",
+  "level": "A1-A2",
+  "gcseTheme": "Theme 3: Current and Future Study and Employment",
+  "scenario": "You're describing your school to an Italian pen pal.",
+  "characters": [
+    { "id": "elena", "name": "Elena", "emoji": "👧", "role": "Italian pen pal" },
+    { "id": "you", "name": "Tu", "emoji": "🧑", "role": "You" }
+  ],
+  "lines": [
+    { "speaker": "elena", "italian": "Com'è la tua scuola?", "english": "What's your school like?" },
+    { "speaker": "you", "italian": "È una scuola grande. Ci sono mille studenti.", "english": "It's a big school. There are a thousand students." },
+    { "speaker": "elena", "italian": "Quante lezioni hai al giorno?", "english": "How many lessons do you have a day?" },
+    { "speaker": "you", "italian": "Sei lezioni. Ogni lezione dura un'ora.", "english": "Six lessons. Each lesson lasts an hour." },
+    { "speaker": "elena", "italian": "Quali materie studi?", "english": "What subjects do you study?" },
+    { "speaker": "you", "italian": "Studio italiano, matematica, scienza e storia.", "english": "I study Italian, maths, science and history." },
+    { "speaker": "elena", "italian": "Qual è la tua materia preferita?", "english": "What is your favourite subject?" },
+    { "speaker": "you", "italian": "L'italiano! Ma la matematica è difficile.", "english": "Italian! But maths is difficult." },
+    { "speaker": "elena", "italian": "Anche a me non piace la matematica!", "english": "I don't like maths either!" },
+    { "speaker": "you", "italian": "Mi piace anche l'educazione fisica.", "english": "I also like PE." },
+    { "speaker": "elena", "italian": "Come sono i professori?", "english": "What are the teachers like?" },
+    { "speaker": "you", "italian": "Il professore di italiano è molto bravo e simpatico.", "english": "The Italian teacher is very good and nice." },
+    { "speaker": "elena", "italian": "Cosa fai durante la pausa?", "english": "What do you do during break?" },
+    { "speaker": "you", "italian": "Mangio alla mensa e parlo con gli amici.", "english": "I eat at the canteen and talk with friends." },
+    { "speaker": "elena", "italian": "Fai molti compiti?", "english": "Do you get a lot of homework?" },
+    { "speaker": "you", "italian": "Sì, troppi! Studio due ore ogni sera.", "english": "Yes, too much! I study two hours every evening." },
+    { "speaker": "elena", "italian": "L'anno prossimo hai gli esami?", "english": "Next year do you have exams?" },
+    { "speaker": "you", "italian": "Sì, devo studiare molto. Sono un po' nervoso!", "english": "Yes, I must study a lot. I'm a bit nervous!" },
+    { "speaker": "elena", "italian": "In bocca al lupo! Ce la farai!", "english": "Good luck! You'll manage!" }
+  ],
+  "keyVocab": ["scuola", "studente", "lezione", "materia", "professore", "esame", "compito", "matematica", "pausa", "mensa"],
+  "practicePrompts": [
+    { "prompt": "How would you say your favourite subject is science?", "answer": "La mia materia preferita è la scienza." },
+    { "prompt": "How would you say you have six lessons a day?", "answer": "Ho sei lezioni al giorno." },
+    { "prompt": "How would you ask what subjects someone studies?", "answer": "Quali materie studi?" }
+  ]
+}

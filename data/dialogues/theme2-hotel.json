@@ -1,0 +1,38 @@
+{
+  "id": "theme2-hotel",
+  "title": "In Albergo",
+  "englishTitle": "At the Hotel",
+  "level": "A1-A2",
+  "gcseTheme": "Theme 2: Local, National, International and Global Areas",
+  "scenario": "You're checking into a hotel in Italy during a holiday.",
+  "characters": [
+    { "id": "receptionist", "name": "Receptionist", "emoji": "👩‍💼", "role": "Receptionist" },
+    { "id": "you", "name": "Tu", "emoji": "🧑", "role": "You" }
+  ],
+  "lines": [
+    { "speaker": "you", "italian": "Buonasera. Ho una prenotazione.", "english": "Good evening. I have a reservation." },
+    { "speaker": "receptionist", "italian": "A che nome?", "english": "Under what name?" },
+    { "speaker": "you", "italian": "Smith. Per tre notti.", "english": "Smith. For three nights." },
+    { "speaker": "receptionist", "italian": "Sì, una camera doppia. Ecco la chiave.", "english": "Yes, a double room. Here is the key." },
+    { "speaker": "you", "italian": "A che piano è la camera?", "english": "What floor is the room on?" },
+    { "speaker": "receptionist", "italian": "Al secondo piano. Camera numero ventidue.", "english": "Second floor. Room number twenty-two." },
+    { "speaker": "you", "italian": "C'è l'ascensore?", "english": "Is there a lift?" },
+    { "speaker": "receptionist", "italian": "Sì, è a destra. La camera ha il bagno e la televisione.", "english": "Yes, it's on the right. The room has a bathroom and television." },
+    { "speaker": "you", "italian": "C'è la colazione inclusa?", "english": "Is breakfast included?" },
+    { "speaker": "receptionist", "italian": "Sì. La colazione è dalle sette alle dieci.", "english": "Yes. Breakfast is from seven to ten." },
+    { "speaker": "you", "italian": "Dove si fa la colazione?", "english": "Where is breakfast served?" },
+    { "speaker": "receptionist", "italian": "Al primo piano, nella sala grande.", "english": "First floor, in the big hall." },
+    { "speaker": "you", "italian": "C'è il Wi-Fi in camera?", "english": "Is there Wi-Fi in the room?" },
+    { "speaker": "receptionist", "italian": "Sì, la password è sulla scrivania.", "english": "Yes, the password is on the desk." },
+    { "speaker": "you", "italian": "Quanto costa la camera per notte?", "english": "How much is the room per night?" },
+    { "speaker": "receptionist", "italian": "Settantacinque euro per notte.", "english": "Seventy-five euros per night." },
+    { "speaker": "you", "italian": "Va bene, grazie. A che ora devo lasciare la camera?", "english": "OK, thank you. What time must I check out?" },
+    { "speaker": "receptionist", "italian": "Entro le undici. Buona permanenza!", "english": "By eleven. Enjoy your stay!" }
+  ],
+  "keyVocab": ["albergo", "camera", "chiave", "bagno", "televisione", "colazione", "notte", "piano", "sala", "prenotazione"],
+  "practicePrompts": [
+    { "prompt": "How would you say you have a reservation for two nights?", "answer": "Ho una prenotazione per due notti." },
+    { "prompt": "How would you ask if breakfast is included?", "answer": "C'è la colazione inclusa?" },
+    { "prompt": "How would you ask how much the room costs?", "answer": "Quanto costa la camera?" }
+  ]
+}

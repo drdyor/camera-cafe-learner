@@ -1,0 +1,247 @@
+1
+00:00:01,500 --> 00:00:04,716
+A Verona ci sono due famiglie.
+
+2
+00:00:05,516 --> 00:00:08,492
+I Montecchi e i Capuleti.
+
+3
+00:00:09,292 --> 00:00:12,316
+Le due famiglie si odiano.
+
+4
+00:00:13,116 --> 00:00:15,900
+Romeo è un Montecchi.
+
+5
+00:00:16,700 --> 00:00:19,340
+È un ragazzo giovane.
+
+6
+00:00:20,140 --> 00:00:23,116
+Giulietta è una Capuleti.
+
+7
+00:00:23,916 --> 00:00:26,628
+È una ragazza bella.
+
+8
+00:00:27,428 --> 00:00:31,532
+Una sera, c'è una festa a casa Capuleti.
+
+9
+00:00:32,332 --> 00:00:34,972
+Romeo va alla festa.
+
+10
+00:00:35,772 --> 00:00:40,356
+Non deve andare. È un Montecchi.
+
+11
+00:00:41,156 --> 00:00:43,532
+Ma va lo stesso.
+
+12
+00:00:44,332 --> 00:00:48,076
+Alla festa, Romeo vede Giulietta.
+
+13
+00:00:48,876 --> 00:00:52,644
+"Chi è quella ragazza?" chiede Romeo.
+
+14
+00:00:53,444 --> 00:00:57,548
+"È la figlia dei Capuleti," dice il suo amico.
+
+15
+00:00:58,348 --> 00:01:01,036
+Romeo non ascolta.
+
+16
+00:01:01,836 --> 00:01:04,812
+Va da Giulietta e le parla.
+
+17
+00:01:05,612 --> 00:01:08,372
+Si guardano negli occhi.
+
+18
+00:01:09,172 --> 00:01:11,140
+È amore.
+
+19
+00:01:11,940 --> 00:01:16,764
+Quella notte, Romeo va sotto il balcone di Giulietta.
+
+20
+00:01:17,564 --> 00:01:20,516
+Giulietta è sul balcone.
+
+21
+00:01:21,316 --> 00:01:24,748
+Guarda le stelle e pensa a Romeo.
+
+22
+00:01:25,548 --> 00:01:31,092
+"Oh Romeo, Romeo! Perché sei un Montecchi?"
+
+23
+00:01:31,892 --> 00:01:35,852
+"Una rosa con un altro nome è sempre dolce."
+
+24
+00:01:36,652 --> 00:01:41,044
+Romeo dice: "Io ti amo, Giulietta."
+
+25
+00:01:41,844 --> 00:01:46,140
+Giulietta dice: "Io ti amo, Romeo."
+
+26
+00:01:46,940 --> 00:01:51,284
+"Ma le nostre famiglie si odiano," dice Giulietta.
+
+27
+00:01:52,084 --> 00:01:58,228
+"Non importa," dice Romeo. "Il nostro amore è più forte."
+
+28
+00:01:59,028 --> 00:02:03,108
+Il giorno dopo, vanno da Frate Lorenzo.
+
+29
+00:02:03,908 --> 00:02:07,460
+Frate Lorenzo li sposa in segreto.
+
+30
+00:02:08,260 --> 00:02:10,972
+Ma poi tutto va male.
+
+31
+00:02:11,772 --> 00:02:14,532
+C'è una lotta in strada.
+
+32
+00:02:15,332 --> 00:02:18,260
+L'amico di Romeo muore.
+
+33
+00:02:19,060 --> 00:02:22,084
+Romeo è molto arrabbiato.
+
+34
+00:02:22,884 --> 00:02:25,956
+Romeo uccide un Capuleti.
+
+35
+00:02:26,756 --> 00:02:31,748
+Il principe dice: "Romeo deve andare via da Verona!"
+
+36
+00:02:32,548 --> 00:02:37,252
+Romeo va via. Giulietta piange.
+
+37
+00:02:38,052 --> 00:02:43,212
+Il padre di Giulietta dice: "Devi sposare un altro uomo."
+
+38
+00:02:44,012 --> 00:02:48,500
+Giulietta dice: "No! Mai!"
+
+39
+00:02:49,300 --> 00:02:52,252
+Frate Lorenzo ha un piano.
+
+40
+00:02:53,052 --> 00:02:58,668
+"Bevi questa medicina. Dormirai per due giorni."
+
+41
+00:02:59,468 --> 00:03:06,020
+"Tutti pensano che sei morta. Romeo viene e vi svegliate insieme."
+
+42
+00:03:06,820 --> 00:03:09,892
+Giulietta beve la medicina.
+
+43
+00:03:10,692 --> 00:03:15,132
+Si addormenta. Sembra morta.
+
+44
+00:03:15,932 --> 00:03:18,524
+La famiglia piange.
+
+45
+00:03:19,324 --> 00:03:23,284
+Ma Romeo non riceve il messaggio del piano.
+
+46
+00:03:24,084 --> 00:03:27,588
+Romeo sente che Giulietta è morta.
+
+47
+00:03:28,388 --> 00:03:33,428
+"No! La mia Giulietta!" urla Romeo.
+
+48
+00:03:34,228 --> 00:03:37,012
+Romeo torna a Verona.
+
+49
+00:03:37,812 --> 00:03:40,644
+Va dove Giulietta dorme.
+
+50
+00:03:41,444 --> 00:03:43,820
+Pensa che è morta.
+
+51
+00:03:44,620 --> 00:03:48,772
+"Non posso vivere senza di te," dice Romeo.
+
+52
+00:03:49,572 --> 00:03:54,156
+Romeo beve il veleno. Muore.
+
+53
+00:03:54,956 --> 00:03:57,596
+Giulietta si sveglia.
+
+54
+00:03:58,396 --> 00:04:00,988
+Vede Romeo morto.
+
+55
+00:04:01,788 --> 00:04:06,108
+"No, no, no!" urla Giulietta.
+
+56
+00:04:06,908 --> 00:04:09,908
+Giulietta muore con Romeo.
+
+57
+00:04:10,708 --> 00:04:13,684
+Le due famiglie arrivano.
+
+58
+00:04:14,484 --> 00:04:17,652
+Vedono i due ragazzi morti.
+
+59
+00:04:18,452 --> 00:04:20,948
+Piangono insieme.
+
+60
+00:04:21,748 --> 00:04:25,372
+I Montecchi e i Capuleti fanno pace.
+
+61
+00:04:26,172 --> 00:04:29,244
+Ma il prezzo è troppo alto.
+
+62
+00:04:30,044 --> 00:04:34,196
+L'amore di Romeo e Giulietta vive per sempre.

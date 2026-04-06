@@ -1,0 +1,166 @@
+====================================================
+  CAMERA CAFE LEARNER — Launch Copy Package
+  "Graded Classics" Italian Learning Channel
+====================================================
+
+────────────────────────────────────
+1. TWITTER/X THREAD (Viral hook)
+────────────────────────────────────
+
+TWEET 1 (Hook):
+They said you can't read Dante as a beginner. They were wrong.
+
+I simplified Inferno Canto 1 to A1 Italian. 44 sentences. All beginner vocabulary.
+
+Here's how (and why it works): [thread]
+
+TWEET 2 (The method):
+The trick: "Syntactic & Lexical Grading"
+
+Original Dante: "Nel mezzo del cammin di nostra vita mi ritrovai per una selva oscura"
+
+A1 version: "Dante ha trentacinque anni. Un giorno, si sveglia in un bosco. Il bosco è oscuro. Ha paura."
+
+Same story. Same emotion. Beginner words.
+
+TWEET 3 (The curriculum):
+We built 4 stories as a progression:
+
+Week 1: Goldilocks (concrete objects — soup, chairs, beds)
+Week 2: Three Little Pigs (repetition — "troppo debole/forte")
+Week 4: Romeo & Juliet (emotions — love, hate, death)
+Week 6: Dante's Inferno (philosophy — fear, hope, salvation)
+
+From soup to salvation in A1 Italian.
+
+TWEET 4 (The tech):
+The entire pipeline is automated:
+
+- Kelly A1/A2 word list (1,806 words)
+- Kokoro TTS ($0.06/hr vs ElevenLabs $10/hr)
+- Auto-generated dual subtitles (IT + EN)
+- Chrome extension: click any word → CEFR level + conjugation + Anki export
+
+Zero API costs. All local.
+
+TWEET 5 (CTA):
+First video drops next week.
+
+Subscribe to the channel: [LINK]
+Chrome extension (free): [LINK]
+
+If you're learning Italian, you'll be reading Dante by week 6.
+
+────────────────────────────────────
+2. REDDIT (r/italianlearning)
+────────────────────────────────────
+
+Title: I simplified Dante's Inferno to A1 Italian — here's the result
+
+Body:
+I've been building an Italian learning project around the idea that beginners shouldn't be stuck with "the cat is on the table" forever.
+
+So I graded classic literature down to A1/A2 using the Kelly Italian Frequency List (6,529 words, CEFR-tagged). The rules:
+- One clause per sentence
+- Present tense only (past becomes "one day..." + present)
+- Concrete > abstract always
+- Explicit subjects (never drop "he/she")
+
+Here's Dante, Canto 1:
+
+Original: "Nel mezzo del cammin di nostra vita mi ritrovai per una selva oscura, ché la diritta via era smarrita."
+
+A1: "Dante ha trentacinque anni. È nel mezzo della sua vita. Un giorno, si sveglia in un bosco. Il bosco è oscuro. Ha paura. Non sa dove è."
+
+The full story is 49 sentences and covers Canto 1-2 (dark forest, the three beasts, Virgil appears, the gates of Hell).
+
+We also did Goldilocks, Three Little Pigs, and Romeo & Juliet. The progression goes:
+concrete objects → emotions → philosophy
+
+All with dual subtitles (IT + EN) and a Chrome extension that lets you click any word for CEFR level, conjugation table, and Anki export.
+
+YouTube channel launching next week. Everything is free.
+
+Would love feedback from actual Italian learners. Does the graded text feel natural or too robotic?
+
+────────────────────────────────────
+3. LINKEDIN (Ed-tech angle)
+────────────────────────────────────
+
+Here's a counterintuitive idea: beginners should read Dante, not "the cat is black."
+
+We built a content pipeline that grades classic literature to A1 Italian using the Kelly Frequency List — an academic dataset of 6,529 Italian words tagged by CEFR level.
+
+The result: Dante's Inferno in 49 A1 sentences. Romeo & Juliet in 62. All using vocabulary a 2-week learner already knows.
+
+Why this works (the psychology):
+- Cognitive dissonance creates engagement: "Dante = hard" vs "I understood it = easy"
+- Status signaling drives sharing: "I read Dante in Italian" > "I read about a cat"
+- Plot curiosity increases retention: learners watch longer because they want to know what happens
+
+The tech stack is fully automated:
+- Kokoro TTS for Italian narration (166x cheaper than ElevenLabs)
+- Auto-generated dual subtitles
+- Chrome extension with Anki integration
+- Zero API costs — everything runs locally
+
+Launching the YouTube channel next week. If you're in ed-tech or language learning, I'd love to connect.
+
+────────────────────────────────────
+4. TIKTOK/REELS (15-30 seconds)
+────────────────────────────────────
+
+SCRIPT A (15s — "POV"):
+[Text on screen: "POV: You're 3 weeks into learning Italian"]
+[Show text appearing word by word]
+"Oh Romeo, Romeo! Perché sei un Montecchi?"
+[Cut to] "Una rosa con un altro nome è sempre dolce."
+[Text: "Yes, you just understood Shakespeare in Italian. A1 level."]
+[End card: Channel name]
+
+SCRIPT B (30s — "The progression"):
+[Text: "Week 1 of Italian:"]
+"La minestra è troppo calda!" (The soup is too hot!)
+[Text: "Week 3:"]
+"Io ti amo, Giulietta." (I love you, Juliet.)
+[Text: "Week 6:"]
+"Lasciate ogni speranza, voi che entrate." (Abandon all hope, you who enter.)
+[Text: "From soup to Dante in 6 weeks. All A1 vocabulary."]
+[End card]
+
+SCRIPT C (15s — "Hook"):
+[Text: "Italian teachers hate this"]
+[Show side-by-side]
+Left: "Il gatto è nero" (The cat is black)
+Right: "Dante ha paura. Il bosco è oscuro." (Dante is afraid. The forest is dark.)
+[Text: "Same difficulty. One is Dante."]
+
+────────────────────────────────────
+5. EMAIL NEWSLETTER (Substack)
+────────────────────────────────────
+
+Subject: Read Dante in Italian (yes, even as a beginner)
+
+Here's the thing about language learning: the content is the curriculum.
+
+Most Italian courses start with "the cat is on the table." Which teaches you... that cats sit on tables. Not exactly motivating at 8pm after a full day of work.
+
+What if you could read Dante's Inferno instead? Same A1 vocabulary. Same grammar. But now you're reading one of the greatest works in Western literature.
+
+We built a pipeline that grades classic stories to A1/A2 Italian:
+
+1. Goldilocks — "La minestra è perfetta!" (physical objects, rule of three)
+2. Three Little Pigs — "La mia casa è forte!" (repetition, building vocabulary)
+3. Romeo & Juliet — "Oh Romeo, Romeo!" (emotions, relationships)
+4. Dante's Inferno — "Lasciate ogni speranza" (philosophy, the epic)
+
+Each story uses only words from the Kelly Italian Frequency List. If you've studied Italian for 2 weeks, you can read all of these.
+
+Videos drop next week on YouTube with:
+- Italian narration at learner pace
+- Dual subtitles (Italian + English)
+- Free Chrome extension: click any word → CEFR level + conjugation + Anki export
+
+Subscribe: [LINK]
+
+From soup to salvation. That's the curriculum.

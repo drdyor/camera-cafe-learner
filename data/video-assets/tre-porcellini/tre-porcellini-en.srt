@@ -1,0 +1,187 @@
+1
+00:00:01,500 --> 00:00:05,388
+Little Pig 1 builds a house of wood.
+
+2
+00:00:06,188 --> 00:00:10,220
+Little Pig 2 builds a house of straw.
+
+3
+00:00:11,020 --> 00:00:15,100
+Little Pig 3 builds a house of bricks.
+
+4
+00:00:15,900 --> 00:00:20,388
+Little Pig 1 says: "My house is nice!"
+
+5
+00:00:21,188 --> 00:00:25,820
+Little Pig 2 says: "My house is light!"
+
+6
+00:00:26,620 --> 00:00:31,060
+Little Pig 3 says: "My house is strong!"
+
+7
+00:00:31,860 --> 00:00:36,636
+Wolf arrives and says: "Your house is too weak!"
+
+8
+00:00:37,436 --> 00:00:41,252
+Wolf blows and destroys the wood house.
+
+9
+00:00:42,052 --> 00:00:45,508
+Little Pig 1 shouts: "Help!"
+
+10
+00:00:46,308 --> 00:00:50,940
+Little Pig 2 says: "My house is light!"
+
+11
+00:00:51,740 --> 00:00:55,580
+Wolf blows and destroys the straw house.
+
+12
+00:00:56,380 --> 00:00:59,980
+Little Pig 2 shouts: "Help!"
+
+13
+00:01:00,780 --> 00:01:05,220
+Little Pig 3 says: "My house is strong!"
+
+14
+00:01:06,020 --> 00:01:10,676
+Wolf arrives and says: "Your house is too strong!"
+
+15
+00:01:11,476 --> 00:01:15,748
+Wolf blows but doesn't destroy the brick house.
+
+16
+00:01:16,548 --> 00:01:20,148
+Wolf shouts: "I can't enter!"
+
+17
+00:01:20,948 --> 00:01:25,412
+Little Pig 3 says: "My house is safe!"
+
+18
+00:01:26,212 --> 00:01:30,820
+Wolf arrives and says: "Your house is too hard!"
+
+19
+00:01:31,620 --> 00:01:34,548
+Wolf tries but doesn't enter.
+
+20
+00:01:35,348 --> 00:01:40,052
+Little Pig 3 says: "My house is perfect!"
+
+21
+00:01:40,852 --> 00:01:44,980
+Wolf arrives and says: "I can't!"
+
+22
+00:01:45,780 --> 00:01:49,884
+Wolf leaves and says: "I can't win!"
+
+23
+00:01:50,684 --> 00:01:55,172
+Little Pig 1 says: "My house is finished!"
+
+24
+00:01:55,972 --> 00:02:00,484
+Little Pig 2 says: "My house is finished!"
+
+25
+00:02:01,284 --> 00:02:05,916
+Little Pig 3 says: "My house is always there!"
+
+26
+00:02:06,716 --> 00:02:11,204
+Little Pig 1 says: "My house is nice!"
+
+27
+00:02:12,004 --> 00:02:16,636
+Little Pig 2 says: "My house is light!"
+
+28
+00:02:17,436 --> 00:02:21,876
+Little Pig 3 says: "My house is strong!"
+
+29
+00:02:22,676 --> 00:02:27,452
+Wolf arrives and says: "Your house is too weak!"
+
+30
+00:02:28,252 --> 00:02:32,068
+Wolf blows and destroys the wood house.
+
+31
+00:02:32,868 --> 00:02:36,324
+Little Pig 1 shouts: "Help!"
+
+32
+00:02:37,124 --> 00:02:41,756
+Little Pig 2 says: "My house is light!"
+
+33
+00:02:42,556 --> 00:02:46,396
+Wolf blows and destroys the straw house.
+
+34
+00:02:47,196 --> 00:02:50,796
+Little Pig 2 shouts: "Help!"
+
+35
+00:02:51,596 --> 00:02:56,036
+Little Pig 3 says: "My house is strong!"
+
+36
+00:02:56,836 --> 00:03:01,492
+Wolf arrives and says: "Your house is too strong!"
+
+37
+00:03:02,292 --> 00:03:06,564
+Wolf blows but doesn't destroy the brick house.
+
+38
+00:03:07,364 --> 00:03:10,964
+Wolf shouts: "I can't enter!"
+
+39
+00:03:11,764 --> 00:03:16,228
+Little Pig 3 says: "My house is safe!"
+
+40
+00:03:17,028 --> 00:03:21,636
+Wolf arrives and says: "Your house is too hard!"
+
+41
+00:03:22,436 --> 00:03:25,364
+Wolf tries but doesn't enter.
+
+42
+00:03:26,164 --> 00:03:30,868
+Little Pig 3 says: "My house is perfect!"
+
+43
+00:03:31,668 --> 00:03:35,796
+Wolf arrives and says: "I can't!"
+
+44
+00:03:36,596 --> 00:03:40,700
+Wolf leaves and says: "I can't win!"
+
+45
+00:03:41,500 --> 00:03:45,988
+Little Pig 1 says: "My house is finished!"
+
+46
+00:03:46,788 --> 00:03:51,300
+Little Pig 2 says: "My house is finished!"
+
+47
+00:03:52,100 --> 00:03:56,732
+Little Pig 3 says: "My house is always there!"

@@ -1,0 +1,123 @@
+====================================================
+  THUMBNAIL DESIGN SYSTEM — Graded Classics Series
+====================================================
+
+CANVAS SIZE: 1280 x 720px (YouTube standard)
+VERTICAL (Shorts/Reels): 1080 x 1920px
+
+────────────────────────────────────
+LAYOUT: 3-Zone System
+────────────────────────────────────
+
+  ┌─────────────────────────────────────────────┐
+  │                                             │
+  │   [VISUAL]              [TEXT]     [BADGE]  │
+  │   Left 60%              Right 40%  Top-R    │
+  │                                             │
+  │   Classic painting      Title      "A1"     │
+  │   or illustration       in large   badge    │
+  │   (public domain)       bold font           │
+  │                                             │
+  └─────────────────────────────────────────────┘
+
+────────────────────────────────────
+FONTS
+────────────────────────────────────
+
+Title:    Bebas Neue (all caps, 72-96pt)
+Subtitle: Inter Bold (24-32pt)
+Badge:    Inter Black (18pt, inside rounded rect)
+
+────────────────────────────────────
+COLOR CODING BY STORY
+────────────────────────────────────
+
+1. GOLDILOCKS (Riccioli d'Oro)
+   Primary:    #F59E0B (warm amber)
+   Secondary:  #92400E (dark brown)
+   Background: Warm cottage interior, golden light
+   AI Prompt:  "Storybook illustration of a girl with golden curly hair
+                looking at three bowls of soup on a wooden table,
+                warm cottage interior, soft candlelight, Studio Ghibli style,
+                fairy tale illustration, 16:9 aspect ratio"
+   Text:       "GOLDILOCKS" / "in A1 Italian"
+
+2. THREE LITTLE PIGS (Tre Porcellini)
+   Primary:    #EF4444 (brick red)
+   Secondary:  #7F1D1D (dark red)
+   Background: Brick house with wolf outside
+   AI Prompt:  "Storybook illustration of a big bad wolf blowing at
+                a small brick house, three pigs peeking from windows,
+                dramatic clouds, fairy tale style, warm colors, 16:9"
+   Text:       "THREE PIGS" / "in A1 Italian"
+
+3. ROMEO & JULIET (Romeo e Giulietta)
+   Primary:    #3B82F6 (romantic blue)
+   Secondary:  #1E3A8A (deep blue)
+   Background: Balcony scene, moonlit Verona
+   AI Prompt:  "Renaissance painting style, Juliet on a stone balcony
+                looking down at Romeo in a moonlit garden, Verona
+                architecture, stars visible, romantic atmosphere,
+                dramatic chiaroscuro lighting, 16:9 aspect ratio"
+   Text:       "ROMEO & JULIET" / "in A1 Italian"
+
+4. DANTE'S INFERNO (Dante e la Selva Oscura)
+   Primary:    #F97316 (hellfire orange)
+   Secondary:  #1C1917 (near black)
+   Background: Dark forest, distant fire glow
+   AI Prompt:  "Gustave Doré engraving style, a man in medieval robes
+                standing at the entrance of a dark forest, a faint glow
+                of fire in the distance, dramatic shadows, epic scale,
+                a great stone gate with inscriptions, 16:9 aspect ratio"
+   Text:       "DANTE'S INFERNO" / "in A1 Italian"
+
+────────────────────────────────────
+BADGE SPECS
+────────────────────────────────────
+
+Position:   Top-right corner, 16px margin
+Size:       80 x 40px
+Background: #065F46 (dark green)
+Text:       "A1" in white, Inter Black 18pt
+Border:     2px solid #6EE7B7
+Radius:     8px
+
+For A1-A2 stories: split badge "A1-A2" with gradient green→blue
+
+────────────────────────────────────
+TEXT OVERLAY
+────────────────────────────────────
+
+Title treatment (all thumbnails):
+- Line 1: Story name (Bebas Neue, 72pt, white, drop shadow)
+- Line 2: "Learn Italian with Stories" (Inter, 24pt, #94A3B8)
+- Line 3: Key Italian quote (Inter Italic, 28pt, #FBBF24)
+
+Example for Dante:
+  DANTE'S INFERNO
+  Learn Italian with Stories
+  "Lasciate ogni speranza..."
+
+────────────────────────────────────
+CANVA TEMPLATE STEPS
+────────────────────────────────────
+
+1. New design → 1280 x 720 px
+2. Background: AI-generated image (use prompts above)
+3. Add dark gradient overlay (left-to-right, 60% opacity)
+4. Add text block (right 40%):
+   - Title: Bebas Neue, white
+   - Subtitle: Inter, gray
+   - Quote: Inter Italic, amber
+5. Add A1 badge (top-right)
+6. Add subtle "Camera Cafe Learner" watermark (bottom-left, 12pt, 30% opacity)
+
+────────────────────────────────────
+VERTICAL FORMAT (Shorts/Reels)
+────────────────────────────────────
+
+1080 x 1920px, same visual treatment but:
+- Image fills top 60%
+- Text block in bottom 40% on dark bg
+- Badge in top-left (larger: 100x50px)
+- Add "Swipe up for full video" at bottom

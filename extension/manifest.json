@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "Camera Cafe Learner",
+  "version": "1.0.0",
+  "description": "Learn Italian while watching YouTube — vocabulary, conjugations, pronunciation",
+  "permissions": ["storage", "sidePanel", "activeTab"],
+  "host_permissions": ["*://*.youtube.com/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js": ["content.js"],
+      "css": ["content.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  },
+  "action": {
+    "default_title": "Camera Cafe Learner"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["kelly.json"],
+      "matches": ["*://*.youtube.com/*"]
+    }
+  ]
+}

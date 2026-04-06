@@ -1,0 +1,37 @@
+{
+  "id": "theme1-family",
+  "title": "La Mia Famiglia",
+  "englishTitle": "My Family",
+  "level": "A1",
+  "gcseTheme": "Theme 1: Identity and Culture",
+  "scenario": "You meet an Italian exchange student. They ask about your family.",
+  "characters": [
+    { "id": "marco", "name": "Marco", "emoji": "👦", "role": "Exchange student" },
+    { "id": "you", "name": "Tu", "emoji": "🧑", "role": "You" }
+  ],
+  "lines": [
+    { "speaker": "marco", "italian": "Ciao! Come ti chiami?", "english": "Hi! What's your name?" },
+    { "speaker": "you", "italian": "Ciao! Mi chiamo Alex. E tu?", "english": "Hi! My name is Alex. And you?" },
+    { "speaker": "marco", "italian": "Mi chiamo Marco. Hai fratelli o sorelle?", "english": "My name is Marco. Do you have brothers or sisters?" },
+    { "speaker": "you", "italian": "Sì, ho una sorella e un fratello.", "english": "Yes, I have a sister and a brother." },
+    { "speaker": "marco", "italian": "Quanti anni hanno?", "english": "How old are they?" },
+    { "speaker": "you", "italian": "Mia sorella ha dodici anni. Mio fratello ha otto anni.", "english": "My sister is twelve. My brother is eight." },
+    { "speaker": "marco", "italian": "E i tuoi genitori? Che lavoro fanno?", "english": "And your parents? What work do they do?" },
+    { "speaker": "you", "italian": "Mio padre è ingegnere. Mia madre è insegnante.", "english": "My father is an engineer. My mother is a teacher." },
+    { "speaker": "marco", "italian": "Mia madre è dottoressa. Lavora all'ospedale.", "english": "My mother is a doctor. She works at the hospital." },
+    { "speaker": "you", "italian": "Che bello! Hai animali?", "english": "How nice! Do you have pets?" },
+    { "speaker": "marco", "italian": "Sì, ho un cane. Si chiama Luna.", "english": "Yes, I have a dog. Her name is Luna." },
+    { "speaker": "you", "italian": "Anch'io ho un gatto! Si chiama Micio.", "english": "I also have a cat! His name is Micio." },
+    { "speaker": "marco", "italian": "Dove abiti?", "english": "Where do you live?" },
+    { "speaker": "you", "italian": "Abito in una casa grande con un giardino.", "english": "I live in a big house with a garden." },
+    { "speaker": "marco", "italian": "Io abito in un appartamento in città.", "english": "I live in an apartment in the city." },
+    { "speaker": "you", "italian": "Ti piace vivere in città?", "english": "Do you like living in the city?" },
+    { "speaker": "marco", "italian": "Sì, molto! Ci sono cinema, negozi e ristoranti.", "english": "Yes, a lot! There are cinemas, shops and restaurants." }
+  ],
+  "keyVocab": ["famiglia", "fratello", "sorella", "madre", "padre", "cane", "gatto", "casa", "città", "ospedale"],
+  "practicePrompts": [
+    { "prompt": "How would you say you have two brothers?", "answer": "Ho due fratelli." },
+    { "prompt": "How would you say your mother is a lawyer?", "answer": "Mia madre è avvocata." },
+    { "prompt": "How would you ask someone where they live?", "answer": "Dove abiti?" }
+  ]
+}

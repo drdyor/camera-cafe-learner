@@ -1,0 +1,195 @@
+1
+00:00:01,500 --> 00:00:04,572
+Dante ha trentacinque anni.
+
+2
+00:00:05,372 --> 00:00:08,276
+È nel mezzo della sua vita.
+
+3
+00:00:09,076 --> 00:00:12,868
+Un giorno, si sveglia in un bosco.
+
+4
+00:00:13,668 --> 00:00:16,284
+Il bosco è oscuro.
+
+5
+00:00:17,084 --> 00:00:19,100
+Ha paura.
+
+6
+00:00:19,900 --> 00:00:22,180
+Non sa dove è.
+
+7
+00:00:22,980 --> 00:00:26,268
+Non ricorda come è arrivato qui.
+
+8
+00:00:27,068 --> 00:00:30,356
+"Dove sono?" dice Dante.
+
+9
+00:00:31,156 --> 00:00:34,852
+Guarda in alto e vede una montagna.
+
+10
+00:00:35,652 --> 00:00:38,628
+Il sole brilla sulla cima.
+
+11
+00:00:39,428 --> 00:00:43,556
+"Devo salire quella montagna," pensa Dante.
+
+12
+00:00:44,356 --> 00:00:48,076
+Comincia a camminare verso la montagna.
+
+13
+00:00:48,876 --> 00:00:52,236
+Ma un animale blocca la strada.
+
+14
+00:00:53,036 --> 00:00:58,148
+È una lonza. Un grande gatto selvatico.
+
+15
+00:00:58,948 --> 00:01:02,500
+La lonza è veloce e pericolosa.
+
+16
+00:01:03,300 --> 00:01:07,044
+Dante ha paura ma continua a camminare.
+
+17
+00:01:07,844 --> 00:01:10,364
+Poi vede un leone.
+
+18
+00:01:11,164 --> 00:01:14,188
+Il leone è grande e forte.
+
+19
+00:01:14,988 --> 00:01:18,012
+Alza la testa e ruggisce.
+
+20
+00:01:18,812 --> 00:01:21,044
+Dante trema.
+
+21
+00:01:21,844 --> 00:01:24,532
+Poi arriva una lupa.
+
+22
+00:01:25,332 --> 00:01:28,428
+La lupa è magra e ha fame.
+
+23
+00:01:29,228 --> 00:01:32,324
+I suoi occhi sono terribili.
+
+24
+00:01:33,124 --> 00:01:36,268
+Dante non può andare avanti.
+
+25
+00:01:37,068 --> 00:01:39,876
+Torna nel bosco oscuro.
+
+26
+00:01:40,676 --> 00:01:43,844
+"Sono perduto," dice Dante.
+
+27
+00:01:44,644 --> 00:01:47,332
+Ma poi vede un uomo.
+
+28
+00:01:48,132 --> 00:01:51,084
+"Chi sei?" chiede Dante.
+
+29
+00:01:51,884 --> 00:01:55,316
+"Io sono Virgilio," dice l'uomo.
+
+30
+00:01:56,116 --> 00:02:01,300
+"Sono un poeta. Sono morto molto tempo fa."
+
+31
+00:02:02,100 --> 00:02:05,628
+"Perché sei qui?" chiede Dante.
+
+32
+00:02:06,428 --> 00:02:12,020
+"Una donna mi ha mandato. Il suo nome è Beatrice."
+
+33
+00:02:12,820 --> 00:02:18,196
+"Beatrice!" dice Dante. "Il mio amore!"
+
+34
+00:02:18,996 --> 00:02:23,316
+"Beatrice ti guarda dal cielo," dice Virgilio.
+
+35
+00:02:24,116 --> 00:02:26,468
+"Ha paura per te."
+
+36
+00:02:27,268 --> 00:02:31,036
+"Devi venire con me," dice Virgilio.
+
+37
+00:02:31,836 --> 00:02:35,268
+"C'è un'altra strada per la montagna."
+
+38
+00:02:36,068 --> 00:02:39,812
+"Ma prima dobbiamo passare per l'Inferno."
+
+39
+00:02:40,612 --> 00:02:45,796
+"L'Inferno?" dice Dante. "Ho paura."
+
+40
+00:02:46,596 --> 00:02:52,428
+"Non avere paura," dice Virgilio. "Io sono con te."
+
+41
+00:02:53,228 --> 00:02:56,372
+Camminano insieme nel bosco.
+
+42
+00:02:57,172 --> 00:03:00,820
+Arrivano davanti a una grande porta.
+
+43
+00:03:01,620 --> 00:03:04,308
+Sulla porta c'è scritto:
+
+44
+00:03:05,108 --> 00:03:09,260
+"Lasciate ogni speranza, voi che entrate."
+
+45
+00:03:10,060 --> 00:03:12,724
+Dante legge e trema.
+
+46
+00:03:13,524 --> 00:03:16,596
+"Coraggio," dice Virgilio.
+
+47
+00:03:17,396 --> 00:03:20,852
+Virgilio prende la mano di Dante.
+
+48
+00:03:21,652 --> 00:03:24,748
+Entrano insieme nella porta.
+
+49
+00:03:25,548 --> 00:03:28,836
+Il viaggio nell'Inferno comincia.

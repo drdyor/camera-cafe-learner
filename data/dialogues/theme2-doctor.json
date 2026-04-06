@@ -1,0 +1,39 @@
+{
+  "id": "theme2-doctor",
+  "title": "Dal Dottore",
+  "englishTitle": "At the Doctor's",
+  "level": "A1-A2",
+  "gcseTheme": "Theme 2: Local, National, International and Global Areas",
+  "scenario": "You feel sick on holiday in Italy and visit a doctor.",
+  "characters": [
+    { "id": "dottore", "name": "Dottore", "emoji": "👨‍⚕️", "role": "Doctor" },
+    { "id": "you", "name": "Tu", "emoji": "🧑", "role": "You" }
+  ],
+  "lines": [
+    { "speaker": "dottore", "italian": "Buongiorno. Come si sente?", "english": "Good morning. How do you feel?" },
+    { "speaker": "you", "italian": "Non mi sento bene. Mi fa male la testa.", "english": "I don't feel well. My head hurts." },
+    { "speaker": "dottore", "italian": "Da quando ha mal di testa?", "english": "Since when have you had a headache?" },
+    { "speaker": "you", "italian": "Da ieri mattina. Ho anche la febbre.", "english": "Since yesterday morning. I also have a fever." },
+    { "speaker": "dottore", "italian": "Ha la tosse o il raffreddore?", "english": "Do you have a cough or a cold?" },
+    { "speaker": "you", "italian": "Sì, ho la tosse e il naso chiuso.", "english": "Yes, I have a cough and a blocked nose." },
+    { "speaker": "dottore", "italian": "Le fa male lo stomaco?", "english": "Does your stomach hurt?" },
+    { "speaker": "you", "italian": "Un po'. Non ho mangiato molto.", "english": "A bit. I haven't eaten much." },
+    { "speaker": "dottore", "italian": "Apra la bocca, per favore.", "english": "Open your mouth, please." },
+    { "speaker": "you", "italian": "È grave?", "english": "Is it serious?" },
+    { "speaker": "dottore", "italian": "No, è solo l'influenza. Deve riposare.", "english": "No, it's just the flu. You need to rest." },
+    { "speaker": "you", "italian": "Devo prendere medicine?", "english": "Do I need to take medicine?" },
+    { "speaker": "dottore", "italian": "Sì. Ecco la ricetta. Vada in farmacia.", "english": "Yes. Here is the prescription. Go to the pharmacy." },
+    { "speaker": "you", "italian": "Dov'è la farmacia più vicina?", "english": "Where is the nearest pharmacy?" },
+    { "speaker": "dottore", "italian": "In piazza, accanto alla banca.", "english": "In the square, next to the bank." },
+    { "speaker": "you", "italian": "Prenda le medicine due volte al giorno.", "english": "Take the medicine twice a day." },
+    { "speaker": "dottore", "italian": "Beva molta acqua e dorma bene.", "english": "Drink a lot of water and sleep well." },
+    { "speaker": "you", "italian": "Grazie, dottore. Quanto devo pagare?", "english": "Thank you, doctor. How much do I have to pay?" },
+    { "speaker": "dottore", "italian": "Trenta euro. Guarisca presto!", "english": "Thirty euros. Get well soon!" }
+  ],
+  "keyVocab": ["dottore", "testa", "febbre", "tosse", "stomaco", "bocca", "influenza", "medicina", "farmacia", "ricetta"],
+  "practicePrompts": [
+    { "prompt": "How would you say your arm hurts?", "answer": "Mi fa male il braccio." },
+    { "prompt": "How would you say you have a fever?", "answer": "Ho la febbre." },
+    { "prompt": "How would you ask where the pharmacy is?", "answer": "Dov'è la farmacia?" }
+  ]
+}

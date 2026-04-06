@@ -1,0 +1,164 @@
+{
+  "è": { "inf": "essere", "en": "is", "tense": "present", "person": "3s" },
+  "sono": { "inf": "essere", "en": "am/are/they are", "tense": "present", "person": "1s/3p" },
+  "sei": { "inf": "essere", "en": "you are", "tense": "present", "person": "2s" },
+  "siamo": { "inf": "essere", "en": "we are", "tense": "present", "person": "1p" },
+  "siete": { "inf": "essere", "en": "you are (pl)", "tense": "present", "person": "2p" },
+  "era": { "inf": "essere", "en": "was", "tense": "imperfect", "person": "3s" },
+  "erano": { "inf": "essere", "en": "were", "tense": "imperfect", "person": "3p" },
+  "stato": { "inf": "essere", "en": "been", "tense": "past participle", "person": "-" },
+  "stata": { "inf": "essere", "en": "been (f)", "tense": "past participle", "person": "-" },
+  "sarà": { "inf": "essere", "en": "will be", "tense": "future", "person": "3s" },
+
+  "ha": { "inf": "avere", "en": "has", "tense": "present", "person": "3s" },
+  "ho": { "inf": "avere", "en": "I have", "tense": "present", "person": "1s" },
+  "hai": { "inf": "avere", "en": "you have", "tense": "present", "person": "2s" },
+  "abbiamo": { "inf": "avere", "en": "we have", "tense": "present", "person": "1p" },
+  "avete": { "inf": "avere", "en": "you have (pl)", "tense": "present", "person": "2p" },
+  "hanno": { "inf": "avere", "en": "they have", "tense": "present", "person": "3p" },
+  "aveva": { "inf": "avere", "en": "had", "tense": "imperfect", "person": "3s" },
+  "avuto": { "inf": "avere", "en": "had", "tense": "past participle", "person": "-" },
+
+  "va": { "inf": "andare", "en": "goes", "tense": "present", "person": "3s" },
+  "vado": { "inf": "andare", "en": "I go", "tense": "present", "person": "1s" },
+  "vai": { "inf": "andare", "en": "you go", "tense": "present", "person": "2s" },
+  "vanno": { "inf": "andare", "en": "they go", "tense": "present", "person": "3p" },
+  "andato": { "inf": "andare", "en": "gone", "tense": "past participle", "person": "-" },
+
+  "fa": { "inf": "fare", "en": "does/makes", "tense": "present", "person": "3s" },
+  "faccio": { "inf": "fare", "en": "I do/make", "tense": "present", "person": "1s" },
+  "fai": { "inf": "fare", "en": "you do/make", "tense": "present", "person": "2s" },
+  "facciamo": { "inf": "fare", "en": "we do/make", "tense": "present", "person": "1p" },
+  "fanno": { "inf": "fare", "en": "they do/make", "tense": "present", "person": "3p" },
+  "fatto": { "inf": "fare", "en": "done/made", "tense": "past participle", "person": "-" },
+
+  "dice": { "inf": "dire", "en": "says", "tense": "present", "person": "3s" },
+  "dico": { "inf": "dire", "en": "I say", "tense": "present", "person": "1s" },
+  "dici": { "inf": "dire", "en": "you say", "tense": "present", "person": "2s" },
+  "diciamo": { "inf": "dire", "en": "we say", "tense": "present", "person": "1p" },
+  "dicono": { "inf": "dire", "en": "they say", "tense": "present", "person": "3p" },
+  "detto": { "inf": "dire", "en": "said", "tense": "past participle", "person": "-" },
+
+  "viene": { "inf": "venire", "en": "comes", "tense": "present", "person": "3s" },
+  "vengo": { "inf": "venire", "en": "I come", "tense": "present", "person": "1s" },
+  "vieni": { "inf": "venire", "en": "you come", "tense": "present", "person": "2s" },
+  "vengono": { "inf": "venire", "en": "they come", "tense": "present", "person": "3p" },
+  "venuto": { "inf": "venire", "en": "come", "tense": "past participle", "person": "-" },
+
+  "può": { "inf": "potere", "en": "can", "tense": "present", "person": "3s" },
+  "posso": { "inf": "potere", "en": "I can", "tense": "present", "person": "1s" },
+  "puoi": { "inf": "potere", "en": "you can", "tense": "present", "person": "2s" },
+  "possiamo": { "inf": "potere", "en": "we can", "tense": "present", "person": "1p" },
+  "possono": { "inf": "potere", "en": "they can", "tense": "present", "person": "3p" },
+  "potuto": { "inf": "potere", "en": "been able", "tense": "past participle", "person": "-" },
+
+  "vuole": { "inf": "volere", "en": "wants", "tense": "present", "person": "3s" },
+  "voglio": { "inf": "volere", "en": "I want", "tense": "present", "person": "1s" },
+  "vuoi": { "inf": "volere", "en": "you want", "tense": "present", "person": "2s" },
+  "vogliamo": { "inf": "volere", "en": "we want", "tense": "present", "person": "1p" },
+  "vogliono": { "inf": "volere", "en": "they want", "tense": "present", "person": "3p" },
+  "voluto": { "inf": "volere", "en": "wanted", "tense": "past participle", "person": "-" },
+
+  "deve": { "inf": "dovere", "en": "must", "tense": "present", "person": "3s" },
+  "devo": { "inf": "dovere", "en": "I must", "tense": "present", "person": "1s" },
+  "devi": { "inf": "dovere", "en": "you must", "tense": "present", "person": "2s" },
+  "devono": { "inf": "dovere", "en": "they must", "tense": "present", "person": "3p" },
+  "dovuto": { "inf": "dovere", "en": "had to", "tense": "past participle", "person": "-" },
+
+  "sa": { "inf": "sapere", "en": "knows", "tense": "present", "person": "3s" },
+  "so": { "inf": "sapere", "en": "I know", "tense": "present", "person": "1s" },
+  "sai": { "inf": "sapere", "en": "you know", "tense": "present", "person": "2s" },
+  "sappiamo": { "inf": "sapere", "en": "we know", "tense": "present", "person": "1p" },
+  "sanno": { "inf": "sapere", "en": "they know", "tense": "present", "person": "3p" },
+  "saputo": { "inf": "sapere", "en": "known", "tense": "past participle", "person": "-" },
+
+  "dà": { "inf": "dare", "en": "gives", "tense": "present", "person": "3s" },
+  "do": { "inf": "dare", "en": "I give", "tense": "present", "person": "1s" },
+  "dai": { "inf": "dare", "en": "you give", "tense": "present", "person": "2s" },
+  "danno": { "inf": "dare", "en": "they give", "tense": "present", "person": "3p" },
+  "dato": { "inf": "dare", "en": "given", "tense": "past participle", "person": "-" },
+
+  "sta": { "inf": "stare", "en": "stays/is", "tense": "present", "person": "3s" },
+  "sto": { "inf": "stare", "en": "I stay/am", "tense": "present", "person": "1s" },
+  "stai": { "inf": "stare", "en": "you stay/are", "tense": "present", "person": "2s" },
+  "stanno": { "inf": "stare", "en": "they stay/are", "tense": "present", "person": "3p" },
+
+  "vede": { "inf": "vedere", "en": "sees", "tense": "present", "person": "3s" },
+  "vedo": { "inf": "vedere", "en": "I see", "tense": "present", "person": "1s" },
+  "vedi": { "inf": "vedere", "en": "you see", "tense": "present", "person": "2s" },
+  "vedono": { "inf": "vedere", "en": "they see", "tense": "present", "person": "3p" },
+  "visto": { "inf": "vedere", "en": "seen", "tense": "past participle", "person": "-" },
+
+  "mette": { "inf": "mettere", "en": "puts", "tense": "present", "person": "3s" },
+  "metto": { "inf": "mettere", "en": "I put", "tense": "present", "person": "1s" },
+  "messo": { "inf": "mettere", "en": "put", "tense": "past participle", "person": "-" },
+
+  "prende": { "inf": "prendere", "en": "takes", "tense": "present", "person": "3s" },
+  "prendo": { "inf": "prendere", "en": "I take", "tense": "present", "person": "1s" },
+  "preso": { "inf": "prendere", "en": "taken", "tense": "past participle", "person": "-" },
+
+  "esce": { "inf": "uscire", "en": "goes out", "tense": "present", "person": "3s" },
+  "esco": { "inf": "uscire", "en": "I go out", "tense": "present", "person": "1s" },
+  "uscito": { "inf": "uscire", "en": "gone out", "tense": "past participle", "person": "-" },
+
+  "muore": { "inf": "morire", "en": "dies", "tense": "present", "person": "3s" },
+  "muoio": { "inf": "morire", "en": "I die", "tense": "present", "person": "1s" },
+  "morto": { "inf": "morire", "en": "dead/died", "tense": "past participle", "person": "-" },
+  "morta": { "inf": "morire", "en": "dead/died (f)", "tense": "past participle", "person": "-" },
+
+  "nasce": { "inf": "nascere", "en": "is born", "tense": "present", "person": "3s" },
+  "nato": { "inf": "nascere", "en": "born", "tense": "past participle", "person": "-" },
+  "nata": { "inf": "nascere", "en": "born (f)", "tense": "past participle", "person": "-" },
+
+  "cade": { "inf": "cadere", "en": "falls", "tense": "present", "person": "3s" },
+  "cado": { "inf": "cadere", "en": "I fall", "tense": "present", "person": "1s" },
+  "caduto": { "inf": "cadere", "en": "fallen", "tense": "past participle", "person": "-" },
+
+  "chiede": { "inf": "chiedere", "en": "asks", "tense": "present", "person": "3s" },
+  "chiedo": { "inf": "chiedere", "en": "I ask", "tense": "present", "person": "1s" },
+  "chiesto": { "inf": "chiedere", "en": "asked", "tense": "past participle", "person": "-" },
+
+  "scrive": { "inf": "scrivere", "en": "writes", "tense": "present", "person": "3s" },
+  "scrivo": { "inf": "scrivere", "en": "I write", "tense": "present", "person": "1s" },
+  "scritto": { "inf": "scrivere", "en": "written", "tense": "past participle", "person": "-" },
+
+  "legge": { "inf": "leggere", "en": "reads", "tense": "present", "person": "3s" },
+  "leggo": { "inf": "leggere", "en": "I read", "tense": "present", "person": "1s" },
+  "letto": { "inf": "leggere", "en": "read", "tense": "past participle", "person": "-" },
+
+  "vive": { "inf": "vivere", "en": "lives", "tense": "present", "person": "3s" },
+  "vivo": { "inf": "vivere", "en": "I live", "tense": "present", "person": "1s" },
+  "vissuto": { "inf": "vivere", "en": "lived", "tense": "past participle", "person": "-" },
+
+  "corre": { "inf": "correre", "en": "runs", "tense": "present", "person": "3s" },
+  "corro": { "inf": "correre", "en": "I run", "tense": "present", "person": "1s" },
+  "corso": { "inf": "correre", "en": "run", "tense": "past participle", "person": "-" },
+
+  "apre": { "inf": "aprire", "en": "opens", "tense": "present", "person": "3s" },
+  "apro": { "inf": "aprire", "en": "I open", "tense": "present", "person": "1s" },
+  "aperto": { "inf": "aprire", "en": "opened/open", "tense": "past participle", "person": "-" },
+
+  "scopre": { "inf": "scoprire", "en": "discovers", "tense": "present", "person": "3s" },
+  "scopro": { "inf": "scoprire", "en": "I discover", "tense": "present", "person": "1s" },
+  "scoperto": { "inf": "scoprire", "en": "discovered", "tense": "past participle", "person": "-" },
+
+  "risponde": { "inf": "rispondere", "en": "answers", "tense": "present", "person": "3s" },
+  "rispondo": { "inf": "rispondere", "en": "I answer", "tense": "present", "person": "1s" },
+  "risposto": { "inf": "rispondere", "en": "answered", "tense": "past participle", "person": "-" },
+
+  "piace": { "inf": "piacere", "en": "is pleasing/likes", "tense": "present", "person": "3s" },
+  "piacciono": { "inf": "piacere", "en": "are pleasing/like", "tense": "present", "person": "3p" },
+  "piaciuto": { "inf": "piacere", "en": "liked", "tense": "past participle", "person": "-" },
+
+  "rimane": { "inf": "rimanere", "en": "remains", "tense": "present", "person": "3s" },
+  "rimango": { "inf": "rimanere", "en": "I remain", "tense": "present", "person": "1s" },
+  "rimasto": { "inf": "rimanere", "en": "remained", "tense": "past participle", "person": "-" },
+
+  "conosce": { "inf": "conoscere", "en": "knows (person)", "tense": "present", "person": "3s" },
+  "conosco": { "inf": "conoscere", "en": "I know (person)", "tense": "present", "person": "1s" },
+  "conosciuto": { "inf": "conoscere", "en": "known", "tense": "past participle", "person": "-" },
+
+  "lascia": { "inf": "lasciare", "en": "leaves/lets", "tense": "present", "person": "3s" },
+  "lascio": { "inf": "lasciare", "en": "I leave/let", "tense": "present", "person": "1s" },
+  "lasciato": { "inf": "lasciare", "en": "left/let", "tense": "past participle", "person": "-" }
+}

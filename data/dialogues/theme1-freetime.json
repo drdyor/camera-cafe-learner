@@ -1,0 +1,36 @@
+{
+  "id": "theme1-freetime",
+  "title": "Il Tempo Libero",
+  "englishTitle": "Free Time",
+  "level": "A1-A2",
+  "gcseTheme": "Theme 1: Identity and Culture",
+  "scenario": "You're discussing hobbies and weekend plans with an Italian friend.",
+  "characters": [
+    { "id": "luca", "name": "Luca", "emoji": "👦", "role": "Italian friend" },
+    { "id": "you", "name": "Tu", "emoji": "🧑", "role": "You" }
+  ],
+  "lines": [
+    { "speaker": "luca", "italian": "Cosa fai nel tempo libero?", "english": "What do you do in your free time?" },
+    { "speaker": "you", "italian": "Mi piace giocare a calcio e ascoltare musica.", "english": "I like playing football and listening to music." },
+    { "speaker": "luca", "italian": "Giochi in una squadra?", "english": "Do you play on a team?" },
+    { "speaker": "you", "italian": "Sì, giochiamo ogni sabato al parco.", "english": "Yes, we play every Saturday at the park." },
+    { "speaker": "luca", "italian": "Io preferisco il nuoto. Vado in piscina.", "english": "I prefer swimming. I go to the pool." },
+    { "speaker": "you", "italian": "Quante volte alla settimana?", "english": "How many times a week?" },
+    { "speaker": "luca", "italian": "Due volte. Il martedì e il giovedì.", "english": "Twice. Tuesday and Thursday." },
+    { "speaker": "you", "italian": "Cosa fai il fine settimana?", "english": "What do you do at the weekend?" },
+    { "speaker": "luca", "italian": "Il sabato vado al cinema con gli amici.", "english": "On Saturday I go to the cinema with friends." },
+    { "speaker": "you", "italian": "Ti piacciono i film italiani?", "english": "Do you like Italian films?" },
+    { "speaker": "luca", "italian": "Sì! La domenica leggo libri o vado in palestra.", "english": "Yes! On Sunday I read books or go to the gym." },
+    { "speaker": "you", "italian": "Io la domenica esco con la famiglia.", "english": "On Sunday I go out with the family." },
+    { "speaker": "luca", "italian": "Vuoi venire al concerto venerdì sera?", "english": "Do you want to come to the concert Friday evening?" },
+    { "speaker": "you", "italian": "Sì, mi piacerebbe molto! A che ora?", "english": "Yes, I'd like that a lot! What time?" },
+    { "speaker": "luca", "italian": "Alle otto. Ci vediamo alla stazione.", "english": "At eight. See you at the station." },
+    { "speaker": "you", "italian": "Perfetto! A venerdì!", "english": "Perfect! See you Friday!" }
+  ],
+  "keyVocab": ["calcio", "musica", "squadra", "piscina", "cinema", "palestra", "concerto", "famiglia", "stazione", "sabato"],
+  "practicePrompts": [
+    { "prompt": "How would you say you like listening to music?", "answer": "Mi piace ascoltare musica." },
+    { "prompt": "How would you ask what someone does at the weekend?", "answer": "Cosa fai il fine settimana?" },
+    { "prompt": "How would you say you go to the gym on Monday?", "answer": "Vado in palestra il lunedì." }
+  ]
+}

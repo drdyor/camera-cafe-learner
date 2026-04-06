@@ -1,0 +1,40 @@
+{
+  "id": "theme3-career",
+  "title": "Il Mio Futuro",
+  "englishTitle": "My Future",
+  "level": "A2",
+  "gcseTheme": "Theme 3: Current and Future Study and Employment",
+  "scenario": "You're discussing future plans and career ambitions with an Italian friend.",
+  "characters": [
+    { "id": "pietro", "name": "Pietro", "emoji": "👦", "role": "Italian friend" },
+    { "id": "you", "name": "Tu", "emoji": "🧑", "role": "You" }
+  ],
+  "lines": [
+    { "speaker": "pietro", "italian": "Cosa vuoi fare dopo la scuola?", "english": "What do you want to do after school?" },
+    { "speaker": "you", "italian": "Vorrei andare all'università.", "english": "I'd like to go to university." },
+    { "speaker": "pietro", "italian": "Cosa vuoi studiare?", "english": "What do you want to study?" },
+    { "speaker": "you", "italian": "Voglio studiare lingue. Mi piace l'italiano.", "english": "I want to study languages. I like Italian." },
+    { "speaker": "pietro", "italian": "E dopo l'università?", "english": "And after university?" },
+    { "speaker": "you", "italian": "Vorrei lavorare all'estero. Forse in Italia!", "english": "I'd like to work abroad. Maybe in Italy!" },
+    { "speaker": "pietro", "italian": "Che lavoro vorresti fare?", "english": "What job would you like to do?" },
+    { "speaker": "you", "italian": "Il mio lavoro ideale è insegnante.", "english": "My ideal job is teacher." },
+    { "speaker": "pietro", "italian": "Perché insegnante?", "english": "Why teacher?" },
+    { "speaker": "you", "italian": "Perché mi piace aiutare le persone e adoro le lingue.", "english": "Because I like helping people and I love languages." },
+    { "speaker": "pietro", "italian": "Lo stipendio è importante per te?", "english": "Is salary important for you?" },
+    { "speaker": "you", "italian": "No, voglio un lavoro che mi piaccia.", "english": "No, I want a job that I like." },
+    { "speaker": "pietro", "italian": "Io vorrei diventare ingegnere come mio padre.", "english": "I'd like to become an engineer like my father." },
+    { "speaker": "you", "italian": "Devi andare all'università per quello.", "english": "You have to go to university for that." },
+    { "speaker": "pietro", "italian": "Sì, cinque anni! Ma lo stipendio è buono.", "english": "Yes, five years! But the salary is good." },
+    { "speaker": "you", "italian": "Hai fatto un'esperienza di lavoro?", "english": "Have you done work experience?" },
+    { "speaker": "pietro", "italian": "Sì, ho lavorato in un ufficio per una settimana.", "english": "Yes, I worked in an office for a week." },
+    { "speaker": "you", "italian": "Ti è piaciuto?", "english": "Did you like it?" },
+    { "speaker": "pietro", "italian": "Abbastanza. Ma preferisco lavorare all'aperto.", "english": "Quite. But I prefer to work outdoors." },
+    { "speaker": "you", "italian": "Il futuro è pieno di possibilità!", "english": "The future is full of possibilities!" }
+  ],
+  "keyVocab": ["università", "lavoro", "insegnante", "ingegnere", "stipendio", "ufficio", "lingue", "carriera", "futuro", "esperienza"],
+  "practicePrompts": [
+    { "prompt": "How would you say you'd like to be a doctor?", "answer": "Vorrei diventare dottore." },
+    { "prompt": "How would you say your ideal job is lawyer?", "answer": "Il mio lavoro ideale è avvocato." },
+    { "prompt": "How would you ask someone what job they want to do?", "answer": "Che lavoro vorresti fare?" }
+  ]
+}

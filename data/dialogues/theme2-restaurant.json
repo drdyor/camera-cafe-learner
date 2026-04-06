@@ -1,0 +1,38 @@
+{
+  "id": "theme2-restaurant",
+  "title": "Al Ristorante",
+  "englishTitle": "At the Restaurant",
+  "level": "A1-A2",
+  "gcseTheme": "Theme 2: Local, National, International and Global Areas",
+  "scenario": "You're ordering food at an Italian restaurant on holiday.",
+  "characters": [
+    { "id": "cameriere", "name": "Cameriere", "emoji": "🧑‍🍳", "role": "Waiter" },
+    { "id": "you", "name": "Tu", "emoji": "🧑", "role": "You" }
+  ],
+  "lines": [
+    { "speaker": "cameriere", "italian": "Buonasera! Un tavolo per due?", "english": "Good evening! A table for two?" },
+    { "speaker": "you", "italian": "Sì, grazie. Abbiamo una prenotazione.", "english": "Yes, thank you. We have a reservation." },
+    { "speaker": "cameriere", "italian": "A che nome?", "english": "Under what name?" },
+    { "speaker": "you", "italian": "Smith. Per le otto.", "english": "Smith. For eight o'clock." },
+    { "speaker": "cameriere", "italian": "Ecco il vostro tavolo. Ecco il menu.", "english": "Here is your table. Here is the menu." },
+    { "speaker": "you", "italian": "Grazie. Cosa consiglia come antipasto?", "english": "Thank you. What do you recommend as a starter?" },
+    { "speaker": "cameriere", "italian": "L'insalata caprese è molto buona.", "english": "The caprese salad is very good." },
+    { "speaker": "you", "italian": "Prendo l'insalata. E come primo, la pasta al pomodoro.", "english": "I'll have the salad. And as first course, pasta with tomato." },
+    { "speaker": "cameriere", "italian": "E come secondo?", "english": "And as main course?" },
+    { "speaker": "you", "italian": "Il pollo con le patate, per favore.", "english": "The chicken with potatoes, please." },
+    { "speaker": "cameriere", "italian": "Perfetto. E da bere?", "english": "Perfect. And to drink?" },
+    { "speaker": "you", "italian": "Un'acqua minerale e un succo d'arancia.", "english": "A mineral water and an orange juice." },
+    { "speaker": "cameriere", "italian": "Benissimo. Volete un dolce dopo?", "english": "Very good. Would you like a dessert after?" },
+    { "speaker": "you", "italian": "Sì! Il gelato al cioccolato, per favore.", "english": "Yes! The chocolate ice cream, please." },
+    { "speaker": "cameriere", "italian": "Subito. Buon appetito!", "english": "Right away. Enjoy your meal!" },
+    { "speaker": "you", "italian": "Grazie! Posso avere il conto, per favore?", "english": "Thank you! Can I have the bill, please?" },
+    { "speaker": "cameriere", "italian": "Certo. Sono trentacinque euro.", "english": "Of course. That's thirty-five euros." },
+    { "speaker": "you", "italian": "Ecco. Il cibo era molto buono!", "english": "Here you go. The food was very good!" }
+  ],
+  "keyVocab": ["ristorante", "tavolo", "menu", "insalata", "pasta", "pollo", "patata", "acqua", "gelato", "conto"],
+  "practicePrompts": [
+    { "prompt": "How would you ask for the bill?", "answer": "Posso avere il conto, per favore?" },
+    { "prompt": "How would you order a pizza?", "answer": "Prendo una pizza, per favore." },
+    { "prompt": "How would you ask what the waiter recommends?", "answer": "Cosa consiglia?" }
+  ]
+}

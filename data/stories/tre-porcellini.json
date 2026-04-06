@@ -1,0 +1,197 @@
+{
+  "id": "tre-porcellini",
+  "title": "I Tre Porcellini",
+  "englishTitle": "The Three Little Pigs",
+  "level": "A1",
+  "lines": [
+    {
+      "italian": "Porcellino 1 costruisce casa di legno.",
+      "english": "Little Pig 1 builds a house of wood."
+    },
+    {
+      "italian": "Porcellino 2 costruisce casa di paglia.",
+      "english": "Little Pig 2 builds a house of straw."
+    },
+    {
+      "italian": "Porcellino 3 costruisce casa di mattoni.",
+      "english": "Little Pig 3 builds a house of bricks."
+    },
+    {
+      "italian": "Porcellino 1 dice: \"La mia casa è bella!\"",
+      "english": "Little Pig 1 says: \"My house is nice!\""
+    },
+    {
+      "italian": "Porcellino 2 dice: \"La mia casa è leggera!\"",
+      "english": "Little Pig 2 says: \"My house is light!\""
+    },
+    {
+      "italian": "Porcellino 3 dice: \"La mia casa è forte!\"",
+      "english": "Little Pig 3 says: \"My house is strong!\""
+    },
+    {
+      "italian": "Lupo arriva e dice: \"Casa tua è troppo debole!\"",
+      "english": "Wolf arrives and says: \"Your house is too weak!\""
+    },
+    {
+      "italian": "Lupo soffia e distrugge casa di legno.",
+      "english": "Wolf blows and destroys the wood house."
+    },
+    {
+      "italian": "Porcellino 1 urla: \"Aiuto!\"",
+      "english": "Little Pig 1 shouts: \"Help!\""
+    },
+    {
+      "italian": "Porcellino 2 dice: \"La mia casa è leggera!\"",
+      "english": "Little Pig 2 says: \"My house is light!\""
+    },
+    {
+      "italian": "Lupo soffia e distrugge casa di paglia.",
+      "english": "Wolf blows and destroys the straw house."
+    },
+    {
+      "italian": "Porcellino 2 urla: \"Aiuto!\"",
+      "english": "Little Pig 2 shouts: \"Help!\""
+    },
+    {
+      "italian": "Porcellino 3 dice: \"La mia casa è forte!\"",
+      "english": "Little Pig 3 says: \"My house is strong!\""
+    },
+    {
+      "italian": "Lupo arriva e dice: \"Casa tua è troppo forte!\"",
+      "english": "Wolf arrives and says: \"Your house is too strong!\""
+    },
+    {
+      "italian": "Lupo soffia ma non distrugge casa di mattoni.",
+      "english": "Wolf blows but doesn't destroy the brick house."
+    },
+    {
+      "italian": "Lupo urla: \"Non posso entrare!\"",
+      "english": "Wolf shouts: \"I can't enter!\""
+    },
+    {
+      "italian": "Porcellino 3 dice: \"La mia casa è sicura!\"",
+      "english": "Little Pig 3 says: \"My house is safe!\""
+    },
+    {
+      "italian": "Lupo arriva e dice: \"Casa tua è troppo dura!\"",
+      "english": "Wolf arrives and says: \"Your house is too hard!\""
+    },
+    {
+      "italian": "Lupo tenta ma non entra.",
+      "english": "Wolf tries but doesn't enter."
+    },
+    {
+      "italian": "Porcellino 3 dice: \"La mia casa è perfetta!\"",
+      "english": "Little Pig 3 says: \"My house is perfect!\""
+    },
+    {
+      "italian": "Lupo arriva e dice: \"Io non posso!\"",
+      "english": "Wolf arrives and says: \"I can't!\""
+    },
+    {
+      "italian": "Lupo va via e dice: \"Io non vinco!\"",
+      "english": "Wolf leaves and says: \"I can't win!\""
+    },
+    {
+      "italian": "Porcellino 1 dice: \"La mia casa è finita!\"",
+      "english": "Little Pig 1 says: \"My house is finished!\""
+    },
+    {
+      "italian": "Porcellino 2 dice: \"La mia casa è finita!\"",
+      "english": "Little Pig 2 says: \"My house is finished!\""
+    },
+    {
+      "italian": "Porcellino 3 dice: \"La mia casa è sempre lì!\"",
+      "english": "Little Pig 3 says: \"My house is always there!\""
+    },
+    {
+      "italian": "Porcellino 1 dice: \"La mia casa è bella!\"",
+      "english": "Little Pig 1 says: \"My house is nice!\""
+    },
+    {
+      "italian": "Porcellino 2 dice: \"La mia casa è leggera!\"",
+      "english": "Little Pig 2 says: \"My house is light!\""
+    },
+    {
+      "italian": "Porcellino 3 dice: \"La mia casa è forte!\"",
+      "english": "Little Pig 3 says: \"My house is strong!\""
+    },
+    {
+      "italian": "Lupo arriva e dice: \"Casa tua è troppo debole!\"",
+      "english": "Wolf arrives and says: \"Your house is too weak!\""
+    },
+    {
+      "italian": "Lupo soffia e distrugge casa di legno.",
+      "english": "Wolf blows and destroys the wood house."
+    },
+    {
+      "italian": "Porcellino 1 urla: \"Aiuto!\"",
+      "english": "Little Pig 1 shouts: \"Help!\""
+    },
+    {
+      "italian": "Porcellino 2 dice: \"La mia casa è leggera!\"",
+      "english": "Little Pig 2 says: \"My house is light!\""
+    },
+    {
+      "italian": "Lupo soffia e distrugge casa di paglia.",
+      "english": "Wolf blows and destroys the straw house."
+    },
+    {
+      "italian": "Porcellino 2 urla: \"Aiuto!\"",
+      "english": "Little Pig 2 shouts: \"Help!\""
+    },
+    {
+      "italian": "Porcellino 3 dice: \"La mia casa è forte!\"",
+      "english": "Little Pig 3 says: \"My house is strong!\""
+    },
+    {
+      "italian": "Lupo arriva e dice: \"Casa tua è troppo forte!\"",
+      "english": "Wolf arrives and says: \"Your house is too strong!\""
+    },
+    {
+      "italian": "Lupo soffia ma non distrugge casa di mattoni.",
+      "english": "Wolf blows but doesn't destroy the brick house."
+    },
+    {
+      "italian": "Lupo urla: \"Non posso entrare!\"",
+      "english": "Wolf shouts: \"I can't enter!\""
+    },
+    {
+      "italian": "Porcellino 3 dice: \"La mia casa è sicura!\"",
+      "english": "Little Pig 3 says: \"My house is safe!\""
+    },
+    {
+      "italian": "Lupo arriva e dice: \"Casa tua è troppo dura!\"",
+      "english": "Wolf arrives and says: \"Your house is too hard!\""
+    },
+    {
+      "italian": "Lupo tenta ma non entra.",
+      "english": "Wolf tries but doesn't enter."
+    },
+    {
+      "italian": "Porcellino 3 dice: \"La mia casa è perfetta!\"",
+      "english": "Little Pig 3 says: \"My house is perfect!\""
+    },
+    {
+      "italian": "Lupo arriva e dice: \"Io non posso!\"",
+      "english": "Wolf arrives and says: \"I can't!\""
+    },
+    {
+      "italian": "Lupo va via e dice: \"Io non vinco!\"",
+      "english": "Wolf leaves and says: \"I can't win!\""
+    },
+    {
+      "italian": "Porcellino 1 dice: \"La mia casa è finita!\"",
+      "english": "Little Pig 1 says: \"My house is finished!\""
+    },
+    {
+      "italian": "Porcellino 2 dice: \"La mia casa è finita!\"",
+      "english": "Little Pig 2 says: \"My house is finished!\""
+    },
+    {
+      "italian": "Porcellino 3 dice: \"La mia casa è sempre lì!\"",
+      "english": "Little Pig 3 says: \"My house is always there!\""
+    }
+  ],
+  "generatedAt": "2026-04-05T18:43:49.861Z"
+}

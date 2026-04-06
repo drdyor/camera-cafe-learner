@@ -1,0 +1,37 @@
+{
+  "id": "theme2-shopping",
+  "title": "Al Negozio di Vestiti",
+  "englishTitle": "At the Clothes Shop",
+  "level": "A1-A2",
+  "gcseTheme": "Theme 2: Local, National, International and Global Areas",
+  "scenario": "You're shopping for clothes in a shop in Italy.",
+  "characters": [
+    { "id": "commessa", "name": "Commessa", "emoji": "👩‍💼", "role": "Shop assistant" },
+    { "id": "you", "name": "Tu", "emoji": "🧑", "role": "You" }
+  ],
+  "lines": [
+    { "speaker": "commessa", "italian": "Buongiorno! Posso aiutarla?", "english": "Good morning! Can I help you?" },
+    { "speaker": "you", "italian": "Sì, cerco una giacca.", "english": "Yes, I'm looking for a jacket." },
+    { "speaker": "commessa", "italian": "Di che colore?", "english": "What colour?" },
+    { "speaker": "you", "italian": "Nera o blu. Taglia media.", "english": "Black or blue. Medium size." },
+    { "speaker": "commessa", "italian": "Ecco. Questa giacca nera è molto bella.", "english": "Here. This black jacket is very nice." },
+    { "speaker": "you", "italian": "Posso provarla?", "english": "Can I try it on?" },
+    { "speaker": "commessa", "italian": "Certo! I camerini sono là.", "english": "Of course! The fitting rooms are over there." },
+    { "speaker": "you", "italian": "Mi sta bene, ma è un po' grande.", "english": "It fits me well, but it's a bit big." },
+    { "speaker": "commessa", "italian": "Vuole provare la taglia piccola?", "english": "Would you like to try the small size?" },
+    { "speaker": "you", "italian": "Sì, per favore. Quanto costa?", "english": "Yes, please. How much does it cost?" },
+    { "speaker": "commessa", "italian": "Sessanta euro. Ma oggi c'è lo sconto del venti per cento.", "english": "Sixty euros. But today there's a twenty percent discount." },
+    { "speaker": "you", "italian": "Quarantotto euro? La prendo!", "english": "Forty-eight euros? I'll take it!" },
+    { "speaker": "commessa", "italian": "Vuole anche una sciarpa? Vanno bene insieme.", "english": "Do you also want a scarf? They go well together." },
+    { "speaker": "you", "italian": "No, grazie. Solo la giacca.", "english": "No, thank you. Just the jacket." },
+    { "speaker": "commessa", "italian": "Paga in contanti o con la carta?", "english": "Are you paying cash or by card?" },
+    { "speaker": "you", "italian": "Con la carta, per favore.", "english": "By card, please." },
+    { "speaker": "commessa", "italian": "Ecco la borsa. Grazie e arrivederci!", "english": "Here is the bag. Thank you and goodbye!" }
+  ],
+  "keyVocab": ["negozio", "giacca", "taglia", "sconto", "prezzo", "sciarpa", "borsa", "nero", "colore", "cassa"],
+  "practicePrompts": [
+    { "prompt": "How would you say you're looking for shoes?", "answer": "Cerco delle scarpe." },
+    { "prompt": "How would you ask how much something costs?", "answer": "Quanto costa?" },
+    { "prompt": "How would you say it's too big?", "answer": "È troppo grande." }
+  ]
+}

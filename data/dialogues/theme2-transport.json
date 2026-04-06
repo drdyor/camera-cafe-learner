@@ -1,0 +1,37 @@
+{
+  "id": "theme2-transport",
+  "title": "Alla Stazione",
+  "englishTitle": "At the Station",
+  "level": "A1-A2",
+  "gcseTheme": "Theme 2: Local, National, International and Global Areas",
+  "scenario": "You're buying train tickets at a station in Italy.",
+  "characters": [
+    { "id": "bigliettaio", "name": "Bigliettaio", "emoji": "🧑‍💼", "role": "Ticket clerk" },
+    { "id": "you", "name": "Tu", "emoji": "🧑", "role": "You" }
+  ],
+  "lines": [
+    { "speaker": "you", "italian": "Buongiorno. Vorrei un biglietto per Roma.", "english": "Good morning. I'd like a ticket to Rome." },
+    { "speaker": "bigliettaio", "italian": "Solo andata o andata e ritorno?", "english": "One way or return?" },
+    { "speaker": "you", "italian": "Andata e ritorno, per favore.", "english": "Return, please." },
+    { "speaker": "bigliettaio", "italian": "Quando vuole partire?", "english": "When do you want to leave?" },
+    { "speaker": "you", "italian": "Domani mattina. C'è un treno alle nove?", "english": "Tomorrow morning. Is there a train at nine?" },
+    { "speaker": "bigliettaio", "italian": "Sì. Il treno parte alle nove e arriva alle undici.", "english": "Yes. The train leaves at nine and arrives at eleven." },
+    { "speaker": "you", "italian": "Due ore? Va bene. Da quale binario?", "english": "Two hours? That's fine. From which platform?" },
+    { "speaker": "bigliettaio", "italian": "Binario cinque. Il treno è diretto.", "english": "Platform five. The train is direct." },
+    { "speaker": "you", "italian": "Perfetto. Quanto costa il biglietto?", "english": "Perfect. How much does the ticket cost?" },
+    { "speaker": "bigliettaio", "italian": "Ventidue euro per l'andata e ritorno.", "english": "Twenty-two euros for the return." },
+    { "speaker": "you", "italian": "Posso pagare con la carta?", "english": "Can I pay by card?" },
+    { "speaker": "bigliettaio", "italian": "Certo. Ecco il suo biglietto.", "english": "Of course. Here is your ticket." },
+    { "speaker": "you", "italian": "A che ora parte il treno di ritorno?", "english": "What time does the return train leave?" },
+    { "speaker": "bigliettaio", "italian": "Ci sono treni ogni ora. L'ultimo è alle dieci di sera.", "english": "There are trains every hour. The last one is at ten in the evening." },
+    { "speaker": "you", "italian": "C'è un autobus per il centro di Roma dalla stazione?", "english": "Is there a bus to the centre of Rome from the station?" },
+    { "speaker": "bigliettaio", "italian": "Sì, la fermata è fuori. Autobus numero quaranta.", "english": "Yes, the stop is outside. Bus number forty." },
+    { "speaker": "you", "italian": "Grazie mille! Buona giornata!", "english": "Thank you so much! Have a good day!" }
+  ],
+  "keyVocab": ["biglietto", "treno", "stazione", "autobus", "fermata", "mattina", "sera", "ora", "binario", "centro"],
+  "practicePrompts": [
+    { "prompt": "How would you ask for a ticket to Milan?", "answer": "Vorrei un biglietto per Milano." },
+    { "prompt": "How would you ask how much the ticket costs?", "answer": "Quanto costa il biglietto?" },
+    { "prompt": "How would you ask what time the train leaves?", "answer": "A che ora parte il treno?" }
+  ]
+}

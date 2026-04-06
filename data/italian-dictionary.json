@@ -1,0 +1,3642 @@
+{
+  "acqua": {
+    "en": "water",
+    "g": "f",
+    "emoji": "💧",
+    "cat": "kitchen"
+  },
+  "aereo": {
+    "en": "airplane",
+    "g": "m",
+    "emoji": "✈️",
+    "cat": "transport"
+  },
+  "aeroporto": {
+    "en": "airport",
+    "g": "m",
+    "emoji": "🛫",
+    "cat": "transport"
+  },
+  "aglio": {
+    "en": "garlic",
+    "g": "m",
+    "emoji": "🧄",
+    "cat": "kitchen"
+  },
+  "albergo": {
+    "en": "hotel",
+    "g": "m",
+    "emoji": "🏨",
+    "cat": "buildings"
+  },
+  "alte": {
+    "en": "tall, high (f.pl)",
+    "g": "f"
+  },
+  "alti": {
+    "en": "tall, high (m.pl)",
+    "g": "m"
+  },
+  "alto": {
+    "en": "tall, high",
+    "g": "m"
+  },
+  "altra": {
+    "en": "other (f)",
+    "g": "f"
+  },
+  "altro": {
+    "en": "other (m)",
+    "g": "m"
+  },
+  "ambiente": {
+    "en": "environment",
+    "g": "m",
+    "emoji": "🌍",
+    "cat": "outdoors"
+  },
+  "ambulanza": {
+    "en": "ambulance",
+    "g": "f",
+    "emoji": "🚑",
+    "cat": "health"
+  },
+  "amica": {
+    "en": "friend (f)",
+    "g": "f",
+    "emoji": "👧",
+    "cat": "people"
+  },
+  "amico": {
+    "en": "friend (m)",
+    "g": "m",
+    "emoji": "👦",
+    "cat": "people"
+  },
+  "amore": {
+    "en": "love",
+    "g": "m",
+    "emoji": "❤️",
+    "cat": "emotions"
+  },
+  "anche": {
+    "en": "also, too"
+  },
+  "ancora": {
+    "en": "still, again"
+  },
+  "andare": {
+    "en": "to go"
+  },
+  "animale": {
+    "en": "animal",
+    "g": "m",
+    "emoji": "🐾",
+    "cat": "outdoors"
+  },
+  "anni": {
+    "en": "years",
+    "g": "m"
+  },
+  "anno": {
+    "en": "year",
+    "g": "m"
+  },
+  "antipasto": {
+    "en": "starter",
+    "g": "m",
+    "emoji": "🥗",
+    "cat": "restaurant"
+  },
+  "aprire": {
+    "en": "to open"
+  },
+  "arancia": {
+    "en": "orange (fruit)",
+    "g": "f",
+    "emoji": "🍊",
+    "cat": "kitchen"
+  },
+  "aria": {
+    "en": "air",
+    "g": "f",
+    "emoji": "💨",
+    "cat": "outdoors"
+  },
+  "armadio": {
+    "en": "wardrobe",
+    "g": "m",
+    "emoji": "🗄️",
+    "cat": "bedroom"
+  },
+  "arrabbiato": {
+    "en": "angry (m)",
+    "g": "m",
+    "emoji": "😡",
+    "cat": "emotions"
+  },
+  "arrivare": {
+    "en": "to arrive"
+  },
+  "asciugamano": {
+    "en": "towel",
+    "g": "m",
+    "emoji": "🧻",
+    "cat": "home"
+  },
+  "ascoltare": {
+    "en": "to listen"
+  },
+  "aspettare": {
+    "en": "to wait"
+  },
+  "aspetto": {
+    "en": "appearance; I wait",
+    "g": "m"
+  },
+  "attraversare": {
+    "en": "to cross"
+  },
+  "aula": {
+    "en": "classroom",
+    "g": "f",
+    "emoji": "🏫",
+    "cat": "school"
+  },
+  "autista": {
+    "en": "driver",
+    "g": "m",
+    "emoji": "🚗",
+    "cat": "work"
+  },
+  "autobus": {
+    "en": "bus",
+    "g": "m",
+    "emoji": "🚌",
+    "cat": "transport"
+  },
+  "autunno": {
+    "en": "autumn",
+    "g": "m",
+    "emoji": "🍂",
+    "cat": "time"
+  },
+  "avere": {
+    "en": "to have"
+  },
+  "avvocata": {
+    "en": "lawyer (f)",
+    "g": "f",
+    "emoji": "⚖️",
+    "cat": "work"
+  },
+  "avvocato": {
+    "en": "lawyer (m)",
+    "g": "m",
+    "emoji": "⚖️",
+    "cat": "work"
+  },
+  "bagno": {
+    "en": "bathroom",
+    "g": "m",
+    "emoji": "🚿",
+    "cat": "home"
+  },
+  "bambina": {
+    "en": "child (f)",
+    "g": "f",
+    "emoji": "👧",
+    "cat": "people"
+  },
+  "bambino": {
+    "en": "child (m)",
+    "g": "m",
+    "emoji": "👦",
+    "cat": "people"
+  },
+  "banana": {
+    "en": "banana",
+    "g": "f",
+    "emoji": "🍌",
+    "cat": "kitchen"
+  },
+  "banca": {
+    "en": "bank",
+    "g": "f",
+    "emoji": "🏦",
+    "cat": "buildings"
+  },
+  "bastoncini": {
+    "en": "sticks, chopsticks",
+    "g": "m",
+    "emoji": "🥢",
+    "cat": "kitchen"
+  },
+  "bella": {
+    "en": "beautiful (f)",
+    "g": "f"
+  },
+  "bello": {
+    "en": "beautiful (m)",
+    "g": "m"
+  },
+  "bene": {
+    "en": "well, good"
+  },
+  "benzina": {
+    "en": "petrol",
+    "g": "f",
+    "emoji": "⛽",
+    "cat": "transport"
+  },
+  "bere": {
+    "en": "to drink"
+  },
+  "bianco": {
+    "en": "white (m)",
+    "g": "m"
+  },
+  "biblioteca": {
+    "en": "library",
+    "g": "f",
+    "emoji": "📚",
+    "cat": "freetime"
+  },
+  "bicchiere": {
+    "en": "glass",
+    "g": "m",
+    "emoji": "🥛",
+    "cat": "restaurant"
+  },
+  "bicicletta": {
+    "en": "bicycle",
+    "g": "f",
+    "emoji": "🚲",
+    "cat": "transport"
+  },
+  "biglietto": {
+    "en": "ticket",
+    "g": "m",
+    "emoji": "🎫",
+    "cat": "transport"
+  },
+  "birra": {
+    "en": "beer",
+    "g": "f",
+    "emoji": "🍺",
+    "cat": "restaurant"
+  },
+  "bocca": {
+    "en": "mouth",
+    "g": "f",
+    "emoji": "👄",
+    "cat": "body"
+  },
+  "borsa": {
+    "en": "bag, purse",
+    "g": "f",
+    "emoji": "👜",
+    "cat": "clothing"
+  },
+  "bosco": {
+    "en": "forest, woods",
+    "g": "m",
+    "emoji": "🌲",
+    "cat": "outdoors"
+  },
+  "bottiglia": {
+    "en": "bottle",
+    "g": "f",
+    "emoji": "🍾",
+    "cat": "restaurant"
+  },
+  "braccio": {
+    "en": "arm",
+    "g": "m",
+    "emoji": "💪",
+    "cat": "body"
+  },
+  "bravo": {
+    "en": "good, clever (m)",
+    "g": "m"
+  },
+  "brutto": {
+    "en": "ugly (m)",
+    "g": "m"
+  },
+  "bugia": {
+    "en": "lie",
+    "g": "f"
+  },
+  "bugie": {
+    "en": "lies",
+    "g": "f"
+  },
+  "buono": {
+    "en": "good (m)",
+    "g": "m"
+  },
+  "burro": {
+    "en": "butter",
+    "g": "m",
+    "emoji": "🧈",
+    "cat": "kitchen"
+  },
+  "cadere": {
+    "en": "to fall"
+  },
+  "caffe": {
+    "en": "coffee",
+    "g": "m",
+    "emoji": "☕",
+    "cat": "restaurant"
+  },
+  "calcio": {
+    "en": "football",
+    "g": "m",
+    "emoji": "⚽",
+    "cat": "freetime"
+  },
+  "caldo": {
+    "en": "hot, heat",
+    "g": "m",
+    "emoji": "🥵",
+    "cat": "weather"
+  },
+  "calze": {
+    "en": "socks",
+    "g": "f",
+    "emoji": "🧦",
+    "cat": "clothing"
+  },
+  "cambiare": {
+    "en": "to change"
+  },
+  "cameriera": {
+    "en": "waitress",
+    "g": "f",
+    "emoji": "👩‍🍳",
+    "cat": "restaurant"
+  },
+  "cameriere": {
+    "en": "waiter",
+    "g": "m",
+    "emoji": "🧑‍🍳",
+    "cat": "restaurant"
+  },
+  "camicia": {
+    "en": "shirt",
+    "g": "f",
+    "emoji": "👔",
+    "cat": "clothing"
+  },
+  "camminare": {
+    "en": "to walk"
+  },
+  "campeggio": {
+    "en": "campsite",
+    "g": "m",
+    "emoji": "⛺",
+    "cat": "outdoors"
+  },
+  "campo": {
+    "en": "field",
+    "g": "m",
+    "emoji": "🌾",
+    "cat": "outdoors"
+  },
+  "cane": {
+    "en": "dog",
+    "g": "m",
+    "emoji": "🐕",
+    "cat": "home"
+  },
+  "cantare": {
+    "en": "to sing"
+  },
+  "canzone": {
+    "en": "song",
+    "g": "f",
+    "emoji": "🎵",
+    "cat": "technology"
+  },
+  "capelli": {
+    "en": "hair",
+    "g": "m",
+    "emoji": "💇",
+    "cat": "body"
+  },
+  "capire": {
+    "en": "to understand"
+  },
+  "cappello": {
+    "en": "hat",
+    "g": "m",
+    "emoji": "🎩",
+    "cat": "clothing"
+  },
+  "carne": {
+    "en": "meat",
+    "g": "f",
+    "emoji": "🥩",
+    "cat": "kitchen"
+  },
+  "carriera": {
+    "en": "career",
+    "g": "f",
+    "emoji": "📈",
+    "cat": "work"
+  },
+  "carta": {
+    "en": "paper, card",
+    "g": "f",
+    "emoji": "📄",
+    "cat": "school"
+  },
+  "casa": {
+    "en": "house, home",
+    "g": "f",
+    "emoji": "🏠",
+    "cat": "buildings"
+  },
+  "cassa": {
+    "en": "cash register",
+    "g": "f",
+    "emoji": "🧾",
+    "cat": "shop"
+  },
+  "cassetto": {
+    "en": "drawer",
+    "g": "m",
+    "emoji": "🗄️",
+    "cat": "bedroom"
+  },
+  "cattivo": {
+    "en": "bad, evil (m)",
+    "g": "m"
+  },
+  "cavallo": {
+    "en": "horse",
+    "g": "m",
+    "emoji": "🐴",
+    "cat": "outdoors"
+  },
+  "caverna": {
+    "en": "cave",
+    "g": "f",
+    "emoji": "🕳️",
+    "cat": "outdoors"
+  },
+  "cena": {
+    "en": "dinner",
+    "g": "f",
+    "emoji": "🍽️",
+    "cat": "restaurant"
+  },
+  "cenere": {
+    "en": "ash",
+    "g": "f",
+    "emoji": "🌫️",
+    "cat": "outdoors"
+  },
+  "cercare": {
+    "en": "to search, to look for"
+  },
+  "chiamare": {
+    "en": "to call"
+  },
+  "chiave": {
+    "en": "key",
+    "g": "f",
+    "emoji": "🔑",
+    "cat": "home"
+  },
+  "chiavi": {
+    "en": "keys",
+    "g": "f",
+    "emoji": "🔑",
+    "cat": "home"
+  },
+  "chiesa": {
+    "en": "church",
+    "g": "f",
+    "emoji": "⛪",
+    "cat": "buildings"
+  },
+  "chiudere": {
+    "en": "to close"
+  },
+  "cibo": {
+    "en": "food",
+    "g": "m",
+    "emoji": "🍽️",
+    "cat": "kitchen"
+  },
+  "cielo": {
+    "en": "sky",
+    "g": "m",
+    "emoji": "🌤️",
+    "cat": "outdoors"
+  },
+  "cinema": {
+    "en": "cinema",
+    "g": "m",
+    "emoji": "🎬",
+    "cat": "buildings"
+  },
+  "cintura": {
+    "en": "belt",
+    "g": "f",
+    "emoji": "🦴",
+    "cat": "clothing"
+  },
+  "cioccolata": {
+    "en": "chocolate",
+    "g": "f",
+    "emoji": "🍫",
+    "cat": "kitchen"
+  },
+  "cipolla": {
+    "en": "onion",
+    "g": "f",
+    "emoji": "🧅",
+    "cat": "kitchen"
+  },
+  "città": {
+    "en": "city",
+    "g": "f",
+    "emoji": "🏙️",
+    "cat": "buildings"
+  },
+  "classe": {
+    "en": "class",
+    "g": "f",
+    "emoji": "🏫",
+    "cat": "school"
+  },
+  "cliente": {
+    "en": "customer",
+    "g": "m",
+    "emoji": "🧑",
+    "cat": "work"
+  },
+  "clima": {
+    "en": "climate",
+    "g": "m",
+    "emoji": "🌡️",
+    "cat": "weather"
+  },
+  "colazione": {
+    "en": "breakfast",
+    "g": "f",
+    "emoji": "🥐",
+    "cat": "restaurant"
+  },
+  "collega": {
+    "en": "colleague",
+    "g": "m",
+    "emoji": "🧑‍💼",
+    "cat": "people"
+  },
+  "collina": {
+    "en": "hill",
+    "g": "f",
+    "emoji": "⛰️",
+    "cat": "outdoors"
+  },
+  "collo": {
+    "en": "neck",
+    "g": "m",
+    "emoji": "🧣",
+    "cat": "body"
+  },
+  "coltello": {
+    "en": "knife",
+    "g": "m",
+    "emoji": "🔪",
+    "cat": "restaurant"
+  },
+  "cominciare": {
+    "en": "to begin"
+  },
+  "cominciato": {
+    "en": "begun"
+  },
+  "commessa": {
+    "en": "shop assistant (f)",
+    "g": "f",
+    "emoji": "👩‍💼",
+    "cat": "shop"
+  },
+  "commesso": {
+    "en": "shop assistant (m)",
+    "g": "m",
+    "emoji": "🧑‍💼",
+    "cat": "shop"
+  },
+  "comodino": {
+    "en": "bedside table",
+    "g": "m",
+    "emoji": "🛏️",
+    "cat": "bedroom"
+  },
+  "compagno": {
+    "en": "companion (m)",
+    "g": "m"
+  },
+  "compito": {
+    "en": "homework, task",
+    "g": "m",
+    "emoji": "📓",
+    "cat": "school"
+  },
+  "compleanno": {
+    "en": "birthday",
+    "g": "m",
+    "emoji": "🎂",
+    "cat": "time"
+  },
+  "comprare": {
+    "en": "to buy"
+  },
+  "computer": {
+    "en": "computer",
+    "g": "m",
+    "emoji": "💻",
+    "cat": "technology"
+  },
+  "concerto": {
+    "en": "concert",
+    "g": "m",
+    "emoji": "🎸",
+    "cat": "freetime"
+  },
+  "conoscere": {
+    "en": "to know (person/place)"
+  },
+  "contadino": {
+    "en": "farmer",
+    "g": "m",
+    "emoji": "👨‍🌾",
+    "cat": "work"
+  },
+  "contento": {
+    "en": "happy (m)",
+    "g": "m"
+  },
+  "conto": {
+    "en": "bill, check",
+    "g": "m",
+    "emoji": "🧾",
+    "cat": "restaurant"
+  },
+  "coperta": {
+    "en": "blanket",
+    "g": "f",
+    "emoji": "🛌",
+    "cat": "bedroom"
+  },
+  "coppia": {
+    "en": "couple",
+    "g": "f",
+    "emoji": "💑",
+    "cat": "people"
+  },
+  "corpo": {
+    "en": "body",
+    "g": "m",
+    "emoji": "🧍",
+    "cat": "body"
+  },
+  "correre": {
+    "en": "to run"
+  },
+  "cosa": {
+    "en": "thing",
+    "g": "f"
+  },
+  "costruire": {
+    "en": "to build"
+  },
+  "credere": {
+    "en": "to believe"
+  },
+  "cucchiaio": {
+    "en": "spoon",
+    "g": "m",
+    "emoji": "🥄",
+    "cat": "restaurant"
+  },
+  "cucina": {
+    "en": "kitchen; cuisine",
+    "g": "f",
+    "emoji": "👩‍🍳",
+    "cat": "kitchen"
+  },
+  "cuoca": {
+    "en": "cook (f)",
+    "g": "f",
+    "emoji": "👩‍🍳",
+    "cat": "work"
+  },
+  "cuoco": {
+    "en": "cook (m)",
+    "g": "m",
+    "emoji": "👨‍🍳",
+    "cat": "work"
+  },
+  "cuore": {
+    "en": "heart",
+    "g": "m",
+    "emoji": "🫀",
+    "cat": "body"
+  },
+  "cuscino": {
+    "en": "pillow",
+    "g": "m",
+    "emoji": "🛏️",
+    "cat": "bedroom"
+  },
+  "dare": {
+    "en": "to give"
+  },
+  "dente": {
+    "en": "tooth",
+    "g": "m",
+    "emoji": "🦷",
+    "cat": "health"
+  },
+  "denti": {
+    "en": "teeth",
+    "g": "m",
+    "emoji": "🦷",
+    "cat": "health"
+  },
+  "dentista": {
+    "en": "dentist",
+    "g": "m",
+    "emoji": "🦷",
+    "cat": "health"
+  },
+  "dentro": {
+    "en": "inside"
+  },
+  "deserto": {
+    "en": "desert",
+    "g": "m",
+    "emoji": "🏜️",
+    "cat": "outdoors"
+  },
+  "destino": {
+    "en": "destiny",
+    "g": "m"
+  },
+  "dire": {
+    "en": "to say, to tell"
+  },
+  "disegno": {
+    "en": "art, drawing",
+    "g": "m",
+    "emoji": "🎨",
+    "cat": "school"
+  },
+  "dito": {
+    "en": "finger",
+    "g": "m",
+    "emoji": "☝️",
+    "cat": "body"
+  },
+  "divano": {
+    "en": "sofa",
+    "g": "m",
+    "emoji": "🛋️",
+    "cat": "home"
+  },
+  "diventare": {
+    "en": "to become"
+  },
+  "doccia": {
+    "en": "shower",
+    "g": "f",
+    "emoji": "🚿",
+    "cat": "home"
+  },
+  "dolce": {
+    "en": "sweet"
+  },
+  "dolore": {
+    "en": "pain",
+    "g": "m",
+    "emoji": "😣",
+    "cat": "health"
+  },
+  "domanda": {
+    "en": "question",
+    "g": "f"
+  },
+  "domenica": {
+    "en": "Sunday",
+    "g": "f",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "donna": {
+    "en": "woman",
+    "g": "f",
+    "emoji": "👩",
+    "cat": "people"
+  },
+  "dopo": {
+    "en": "after"
+  },
+  "dormire": {
+    "en": "to sleep"
+  },
+  "dottore": {
+    "en": "doctor (m)",
+    "g": "m",
+    "emoji": "👨‍⚕️",
+    "cat": "health"
+  },
+  "dottoressa": {
+    "en": "doctor (f)",
+    "g": "f",
+    "emoji": "👩‍⚕️",
+    "cat": "health"
+  },
+  "dove": {
+    "en": "where"
+  },
+  "edificio": {
+    "en": "building",
+    "g": "m",
+    "emoji": "🏢",
+    "cat": "buildings"
+  },
+  "educazione fisica": {
+    "en": "PE",
+    "g": "f",
+    "emoji": "🏃",
+    "cat": "school"
+  },
+  "energia": {
+    "en": "energy",
+    "g": "f",
+    "emoji": "⚡",
+    "cat": "outdoors"
+  },
+  "enorme": {
+    "en": "enormous"
+  },
+  "entrare": {
+    "en": "to enter"
+  },
+  "era": {
+    "en": "was; era",
+    "g": "f"
+  },
+  "erba": {
+    "en": "grass",
+    "g": "f",
+    "emoji": "🌿",
+    "cat": "outdoors"
+  },
+  "errore": {
+    "en": "error, mistake",
+    "g": "m"
+  },
+  "esame": {
+    "en": "exam",
+    "g": "m",
+    "emoji": "📝",
+    "cat": "school"
+  },
+  "esempio": {
+    "en": "example",
+    "g": "m"
+  },
+  "essere": {
+    "en": "to be"
+  },
+  "estate": {
+    "en": "summer",
+    "g": "f",
+    "emoji": "☀️",
+    "cat": "outdoors"
+  },
+  "famiglia": {
+    "en": "family",
+    "g": "f",
+    "emoji": "👨‍👩‍👧‍👦",
+    "cat": "people"
+  },
+  "famoso": {
+    "en": "famous (m)",
+    "g": "m"
+  },
+  "fare": {
+    "en": "to do, to make"
+  },
+  "farmacia": {
+    "en": "pharmacy",
+    "g": "f",
+    "emoji": "💊",
+    "cat": "health"
+  },
+  "fascia": {
+    "en": "bandage",
+    "g": "f",
+    "emoji": "🩹",
+    "cat": "health"
+  },
+  "fata": {
+    "en": "fairy",
+    "g": "f",
+    "emoji": "🧚",
+    "cat": "fantasy"
+  },
+  "febbre": {
+    "en": "fever",
+    "g": "f",
+    "emoji": "🤒",
+    "cat": "health"
+  },
+  "felice": {
+    "en": "happy"
+  },
+  "felicita": {
+    "en": "happiness",
+    "g": "f",
+    "emoji": "😊",
+    "cat": "emotions"
+  },
+  "fermata": {
+    "en": "stop (bus)",
+    "g": "f",
+    "emoji": "🚏",
+    "cat": "transport"
+  },
+  "ferro": {
+    "en": "iron",
+    "g": "m",
+    "emoji": "⚙️",
+    "cat": "materials"
+  },
+  "festa": {
+    "en": "party, celebration",
+    "g": "f",
+    "emoji": "🎉",
+    "cat": "freetime"
+  },
+  "fiamma": {
+    "en": "flame",
+    "g": "f",
+    "emoji": "🔥",
+    "cat": "outdoors"
+  },
+  "figlia": {
+    "en": "daughter",
+    "g": "f",
+    "emoji": "👧",
+    "cat": "people"
+  },
+  "figlio": {
+    "en": "son",
+    "g": "m",
+    "emoji": "👦",
+    "cat": "people"
+  },
+  "film": {
+    "en": "film",
+    "g": "m",
+    "emoji": "🎬",
+    "cat": "technology"
+  },
+  "finalmente": {
+    "en": "finally"
+  },
+  "finestra": {
+    "en": "window",
+    "g": "f",
+    "emoji": "🪟",
+    "cat": "bedroom"
+  },
+  "finire": {
+    "en": "to finish"
+  },
+  "fiore": {
+    "en": "flower",
+    "g": "m",
+    "emoji": "🌸",
+    "cat": "outdoors"
+  },
+  "fiume": {
+    "en": "river",
+    "g": "m",
+    "emoji": "🏞️",
+    "cat": "outdoors"
+  },
+  "forchetta": {
+    "en": "fork",
+    "g": "f",
+    "emoji": "🍴",
+    "cat": "restaurant"
+  },
+  "foresta": {
+    "en": "forest",
+    "g": "f",
+    "emoji": "🌳",
+    "cat": "outdoors"
+  },
+  "formaggio": {
+    "en": "cheese",
+    "g": "m",
+    "emoji": "🧀",
+    "cat": "kitchen"
+  },
+  "forno": {
+    "en": "oven",
+    "g": "m",
+    "emoji": "🔥",
+    "cat": "kitchen"
+  },
+  "forte": {
+    "en": "strong"
+  },
+  "foto": {
+    "en": "photo",
+    "g": "f",
+    "emoji": "📷",
+    "cat": "technology"
+  },
+  "fragola": {
+    "en": "strawberry",
+    "g": "f",
+    "emoji": "🍓",
+    "cat": "kitchen"
+  },
+  "francese": {
+    "en": "French",
+    "g": "m",
+    "emoji": "🇫🇷",
+    "cat": "school"
+  },
+  "fratello": {
+    "en": "brother",
+    "g": "m",
+    "emoji": "👦",
+    "cat": "people"
+  },
+  "freddo": {
+    "en": "cold (m)",
+    "g": "m"
+  },
+  "frigorifero": {
+    "en": "fridge",
+    "g": "m",
+    "emoji": "🧊",
+    "cat": "kitchen"
+  },
+  "frutta": {
+    "en": "fruit",
+    "g": "f",
+    "emoji": "🍎",
+    "cat": "kitchen"
+  },
+  "fuoco": {
+    "en": "fire",
+    "g": "m",
+    "emoji": "🔥",
+    "cat": "outdoors"
+  },
+  "fuori": {
+    "en": "outside"
+  },
+  "gamba": {
+    "en": "leg",
+    "g": "f",
+    "emoji": "🦵",
+    "cat": "body"
+  },
+  "gatto": {
+    "en": "cat (m)",
+    "g": "m",
+    "emoji": "🐱",
+    "cat": "home"
+  },
+  "gelato": {
+    "en": "ice cream",
+    "g": "m",
+    "emoji": "🍦",
+    "cat": "kitchen"
+  },
+  "gelosia": {
+    "en": "jealousy",
+    "g": "f",
+    "emoji": "😒",
+    "cat": "emotions"
+  },
+  "genitore": {
+    "en": "parent",
+    "g": "m",
+    "emoji": "👪",
+    "cat": "people"
+  },
+  "gente": {
+    "en": "people",
+    "g": "f",
+    "emoji": "👥",
+    "cat": "people"
+  },
+  "geografia": {
+    "en": "geography",
+    "g": "f",
+    "emoji": "🗺️",
+    "cat": "school"
+  },
+  "ghiaccio": {
+    "en": "ice",
+    "g": "m",
+    "emoji": "🧊",
+    "cat": "weather"
+  },
+  "giacca": {
+    "en": "jacket",
+    "g": "f",
+    "emoji": "🧥",
+    "cat": "clothing"
+  },
+  "giallo": {
+    "en": "yellow (m)",
+    "g": "m"
+  },
+  "giardino": {
+    "en": "garden",
+    "g": "m",
+    "emoji": "🌻",
+    "cat": "home"
+  },
+  "ginocchio": {
+    "en": "knee",
+    "g": "m",
+    "emoji": "🦵",
+    "cat": "body"
+  },
+  "giocare": {
+    "en": "to play"
+  },
+  "gioco": {
+    "en": "game",
+    "g": "m",
+    "emoji": "🎮",
+    "cat": "technology"
+  },
+  "gioia": {
+    "en": "joy",
+    "g": "f",
+    "emoji": "😄",
+    "cat": "emotions"
+  },
+  "giornalista": {
+    "en": "journalist",
+    "g": "m",
+    "emoji": "📰",
+    "cat": "work"
+  },
+  "giorno": {
+    "en": "day",
+    "g": "m",
+    "emoji": "🌅",
+    "cat": "outdoors"
+  },
+  "giovane": {
+    "en": "young"
+  },
+  "giovedi": {
+    "en": "Thursday",
+    "g": "m",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "gomma": {
+    "en": "rubber, eraser",
+    "g": "f",
+    "emoji": "🧹",
+    "cat": "school"
+  },
+  "gonna": {
+    "en": "skirt",
+    "g": "f",
+    "emoji": "👗",
+    "cat": "clothing"
+  },
+  "governare": {
+    "en": "to govern"
+  },
+  "grande": {
+    "en": "big, great"
+  },
+  "grandi": {
+    "en": "big (pl)"
+  },
+  "grotta": {
+    "en": "cave, grotto",
+    "g": "f",
+    "emoji": "🕳️",
+    "cat": "outdoors"
+  },
+  "guanti": {
+    "en": "gloves",
+    "g": "m",
+    "emoji": "🧤",
+    "cat": "clothing"
+  },
+  "guardare": {
+    "en": "to look, to watch"
+  },
+  "guerra": {
+    "en": "war",
+    "g": "f",
+    "emoji": "⚔️",
+    "cat": "outdoors"
+  },
+  "idea": {
+    "en": "idea",
+    "g": "f"
+  },
+  "imparare": {
+    "en": "to learn"
+  },
+  "impero": {
+    "en": "empire",
+    "g": "m",
+    "emoji": "🏛️",
+    "cat": "buildings"
+  },
+  "impossibile": {
+    "en": "impossible"
+  },
+  "incredibile": {
+    "en": "incredible"
+  },
+  "infermiera": {
+    "en": "nurse (f)",
+    "g": "f",
+    "emoji": "👩‍⚕️",
+    "cat": "work"
+  },
+  "infermiere": {
+    "en": "nurse (m)",
+    "g": "m",
+    "emoji": "👨‍⚕️",
+    "cat": "work"
+  },
+  "influenza": {
+    "en": "flu",
+    "g": "f",
+    "emoji": "🤧",
+    "cat": "health"
+  },
+  "informatica": {
+    "en": "IT, computing",
+    "g": "f",
+    "emoji": "💻",
+    "cat": "school"
+  },
+  "ingegnere": {
+    "en": "engineer",
+    "g": "m",
+    "emoji": "👷",
+    "cat": "work"
+  },
+  "inglese": {
+    "en": "English",
+    "g": "m",
+    "emoji": "🇬🇧",
+    "cat": "school"
+  },
+  "inquinamento": {
+    "en": "pollution",
+    "g": "m",
+    "emoji": "🏭",
+    "cat": "outdoors"
+  },
+  "insalata": {
+    "en": "salad",
+    "g": "f",
+    "emoji": "🥗",
+    "cat": "kitchen"
+  },
+  "insegnante": {
+    "en": "teacher",
+    "g": "m",
+    "emoji": "👨‍🏫",
+    "cat": "school"
+  },
+  "insegnare": {
+    "en": "to teach"
+  },
+  "insieme": {
+    "en": "together"
+  },
+  "intelligente": {
+    "en": "intelligent"
+  },
+  "inverno": {
+    "en": "winter",
+    "g": "m",
+    "emoji": "❄️",
+    "cat": "outdoors"
+  },
+  "isola": {
+    "en": "island",
+    "g": "f",
+    "emoji": "🏝️",
+    "cat": "outdoors"
+  },
+  "lago": {
+    "en": "lake",
+    "g": "m",
+    "emoji": "🏞️",
+    "cat": "outdoors"
+  },
+  "lampada": {
+    "en": "lamp",
+    "g": "f",
+    "emoji": "💡",
+    "cat": "bedroom"
+  },
+  "larga": {
+    "en": "wide (f)",
+    "g": "f"
+  },
+  "larghe": {
+    "en": "wide (f.pl)",
+    "g": "f"
+  },
+  "largo": {
+    "en": "wide (m)",
+    "g": "m"
+  },
+  "latte": {
+    "en": "milk",
+    "g": "m",
+    "emoji": "🥛",
+    "cat": "kitchen"
+  },
+  "lavagna": {
+    "en": "blackboard",
+    "g": "f",
+    "emoji": "📋",
+    "cat": "school"
+  },
+  "lavorare": {
+    "en": "to work"
+  },
+  "lavoro": {
+    "en": "work, job",
+    "g": "m"
+  },
+  "legare": {
+    "en": "to tie"
+  },
+  "legge": {
+    "en": "law; reads",
+    "g": "f"
+  },
+  "leggere": {
+    "en": "to read"
+  },
+  "legno": {
+    "en": "wood",
+    "g": "m",
+    "emoji": "🪵",
+    "cat": "materials"
+  },
+  "lento": {
+    "en": "slow (m)",
+    "g": "m"
+  },
+  "lettera": {
+    "en": "letter",
+    "g": "f",
+    "emoji": "✉️",
+    "cat": "school"
+  },
+  "letto": {
+    "en": "bed",
+    "g": "m",
+    "emoji": "🛏️",
+    "cat": "bedroom"
+  },
+  "lezione": {
+    "en": "lesson",
+    "g": "f",
+    "emoji": "📝",
+    "cat": "school"
+  },
+  "libertà": {
+    "en": "freedom",
+    "g": "f"
+  },
+  "libro": {
+    "en": "book",
+    "g": "m",
+    "emoji": "📖",
+    "cat": "school"
+  },
+  "lingua": {
+    "en": "language, tongue",
+    "g": "f"
+  },
+  "lontani": {
+    "en": "distant (m.pl)",
+    "g": "m"
+  },
+  "lontano": {
+    "en": "far (m)",
+    "g": "m"
+  },
+  "luce": {
+    "en": "light",
+    "g": "f",
+    "emoji": "💡",
+    "cat": "home"
+  },
+  "lunedi": {
+    "en": "Monday",
+    "g": "m",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "lungo": {
+    "en": "long (m)",
+    "g": "m"
+  },
+  "luogo": {
+    "en": "place",
+    "g": "m"
+  },
+  "lupo": {
+    "en": "wolf",
+    "g": "m",
+    "emoji": "🐺",
+    "cat": "outdoors"
+  },
+  "macchina": {
+    "en": "car",
+    "g": "f",
+    "emoji": "🚗",
+    "cat": "transport"
+  },
+  "madre": {
+    "en": "mother",
+    "g": "f",
+    "emoji": "👩",
+    "cat": "people"
+  },
+  "maestro": {
+    "en": "master, teacher (m)",
+    "g": "m",
+    "emoji": "👨‍🏫",
+    "cat": "school"
+  },
+  "maglietta": {
+    "en": "t-shirt",
+    "g": "f",
+    "emoji": "👕",
+    "cat": "clothing"
+  },
+  "mai": {
+    "en": "never, ever"
+  },
+  "malata": {
+    "en": "sick (f)",
+    "g": "f",
+    "emoji": "🤒",
+    "cat": "health"
+  },
+  "malato": {
+    "en": "sick (m)",
+    "g": "m",
+    "emoji": "🤒",
+    "cat": "health"
+  },
+  "male": {
+    "en": "evil, badly",
+    "g": "m"
+  },
+  "mangiare": {
+    "en": "to eat"
+  },
+  "mani": {
+    "en": "hands",
+    "g": "f",
+    "emoji": "🙌",
+    "cat": "body"
+  },
+  "mano": {
+    "en": "hand",
+    "g": "f",
+    "emoji": "✋",
+    "cat": "body"
+  },
+  "mare": {
+    "en": "sea",
+    "g": "m",
+    "emoji": "🌊",
+    "cat": "outdoors"
+  },
+  "marito": {
+    "en": "husband",
+    "g": "m",
+    "emoji": "👨",
+    "cat": "people"
+  },
+  "martedi": {
+    "en": "Tuesday",
+    "g": "m",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "matematica": {
+    "en": "maths",
+    "g": "f",
+    "emoji": "🔢",
+    "cat": "school"
+  },
+  "materia": {
+    "en": "subject",
+    "g": "f",
+    "emoji": "📖",
+    "cat": "school"
+  },
+  "matita": {
+    "en": "pencil",
+    "g": "f",
+    "emoji": "✏️",
+    "cat": "school"
+  },
+  "mattina": {
+    "en": "morning",
+    "g": "f",
+    "emoji": "🌅",
+    "cat": "outdoors"
+  },
+  "mattone": {
+    "en": "brick",
+    "g": "m",
+    "emoji": "🧱",
+    "cat": "materials"
+  },
+  "mattoni": {
+    "en": "bricks",
+    "g": "m",
+    "emoji": "🧱",
+    "cat": "materials"
+  },
+  "medicina": {
+    "en": "medicine",
+    "g": "f",
+    "emoji": "💊",
+    "cat": "health"
+  },
+  "medico": {
+    "en": "doctor",
+    "g": "m",
+    "emoji": "👨‍⚕️",
+    "cat": "work"
+  },
+  "mela": {
+    "en": "apple",
+    "g": "f",
+    "emoji": "🍎",
+    "cat": "kitchen"
+  },
+  "mensa": {
+    "en": "canteen",
+    "g": "f",
+    "emoji": "🍽️",
+    "cat": "school"
+  },
+  "menu": {
+    "en": "menu",
+    "g": "m",
+    "emoji": "📋",
+    "cat": "restaurant"
+  },
+  "mercante": {
+    "en": "merchant",
+    "g": "m",
+    "emoji": "🧑‍💼",
+    "cat": "people"
+  },
+  "mercato": {
+    "en": "market",
+    "g": "m",
+    "emoji": "🏬",
+    "cat": "shop"
+  },
+  "mercoledi": {
+    "en": "Wednesday",
+    "g": "m",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "mese": {
+    "en": "month",
+    "g": "m",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "messaggi": {
+    "en": "messages",
+    "g": "m",
+    "emoji": "💬",
+    "cat": "technology"
+  },
+  "messaggio": {
+    "en": "message",
+    "g": "m",
+    "emoji": "💬",
+    "cat": "technology"
+  },
+  "metro": {
+    "en": "metro, subway",
+    "g": "f",
+    "emoji": "🚇",
+    "cat": "transport"
+  },
+  "mettere": {
+    "en": "to put"
+  },
+  "milione": {
+    "en": "million",
+    "g": "m"
+  },
+  "milioni": {
+    "en": "millions",
+    "g": "m"
+  },
+  "minuto": {
+    "en": "minute",
+    "g": "m",
+    "emoji": "⏱️",
+    "cat": "time"
+  },
+  "moglie": {
+    "en": "wife",
+    "g": "f",
+    "emoji": "👩",
+    "cat": "people"
+  },
+  "mondo": {
+    "en": "world",
+    "g": "m",
+    "emoji": "🌍",
+    "cat": "outdoors"
+  },
+  "moneta": {
+    "en": "coin, money",
+    "g": "f",
+    "emoji": "🪙",
+    "cat": "shop"
+  },
+  "montagna": {
+    "en": "mountain",
+    "g": "f",
+    "emoji": "⛰️",
+    "cat": "outdoors"
+  },
+  "montagne": {
+    "en": "mountains",
+    "g": "f",
+    "emoji": "🏔️",
+    "cat": "outdoors"
+  },
+  "morire": {
+    "en": "to die"
+  },
+  "morte": {
+    "en": "death",
+    "g": "f"
+  },
+  "moto": {
+    "en": "motorcycle",
+    "g": "f",
+    "emoji": "🏍️",
+    "cat": "transport"
+  },
+  "movimento": {
+    "en": "movement",
+    "g": "m"
+  },
+  "muro": {
+    "en": "wall",
+    "g": "m",
+    "emoji": "🧱",
+    "cat": "home"
+  },
+  "museo": {
+    "en": "museum",
+    "g": "m",
+    "emoji": "🏛️",
+    "cat": "freetime"
+  },
+  "musica": {
+    "en": "music",
+    "g": "f",
+    "emoji": "🎶",
+    "cat": "technology"
+  },
+  "nascere": {
+    "en": "to be born"
+  },
+  "nascondere": {
+    "en": "to hide"
+  },
+  "naso": {
+    "en": "nose",
+    "g": "m",
+    "emoji": "👃",
+    "cat": "body"
+  },
+  "natale": {
+    "en": "Christmas",
+    "g": "m",
+    "emoji": "🎄",
+    "cat": "time"
+  },
+  "natura": {
+    "en": "nature",
+    "g": "f",
+    "emoji": "🌿",
+    "cat": "outdoors"
+  },
+  "nave": {
+    "en": "ship",
+    "g": "f",
+    "emoji": "🚢",
+    "cat": "transport"
+  },
+  "nebbia": {
+    "en": "fog",
+    "g": "f",
+    "emoji": "🌫️",
+    "cat": "weather"
+  },
+  "negozio": {
+    "en": "shop",
+    "g": "m",
+    "emoji": "🏪",
+    "cat": "shop"
+  },
+  "nera": {
+    "en": "black (f)",
+    "g": "f"
+  },
+  "nero": {
+    "en": "black (m)",
+    "g": "m"
+  },
+  "nervoso": {
+    "en": "nervous (m)",
+    "g": "m",
+    "emoji": "😰",
+    "cat": "emotions"
+  },
+  "nessuno": {
+    "en": "nobody"
+  },
+  "neve": {
+    "en": "snow",
+    "g": "f",
+    "emoji": "❄️",
+    "cat": "weather"
+  },
+  "niente": {
+    "en": "nothing"
+  },
+  "noia": {
+    "en": "boredom",
+    "g": "f",
+    "emoji": "😑",
+    "cat": "emotions"
+  },
+  "nome": {
+    "en": "name",
+    "g": "m"
+  },
+  "nonna": {
+    "en": "grandmother",
+    "g": "f",
+    "emoji": "👵",
+    "cat": "people"
+  },
+  "nonno": {
+    "en": "grandfather",
+    "g": "m",
+    "emoji": "👴",
+    "cat": "people"
+  },
+  "notte": {
+    "en": "night",
+    "g": "f",
+    "emoji": "🌙",
+    "cat": "outdoors"
+  },
+  "nuova": {
+    "en": "new (f)",
+    "g": "f"
+  },
+  "nuovo": {
+    "en": "new (m)",
+    "g": "m"
+  },
+  "nuvola": {
+    "en": "cloud",
+    "g": "f",
+    "emoji": "☁️",
+    "cat": "weather"
+  },
+  "occhi": {
+    "en": "eyes",
+    "g": "m",
+    "emoji": "👀",
+    "cat": "body"
+  },
+  "occhiali": {
+    "en": "glasses",
+    "g": "m",
+    "emoji": "👓",
+    "cat": "clothing"
+  },
+  "occhio": {
+    "en": "eye",
+    "g": "m",
+    "emoji": "👁️",
+    "cat": "body"
+  },
+  "olio": {
+    "en": "oil",
+    "g": "m",
+    "emoji": "🫒",
+    "cat": "kitchen"
+  },
+  "ombra": {
+    "en": "shadow",
+    "g": "f"
+  },
+  "ombre": {
+    "en": "shadows",
+    "g": "f"
+  },
+  "ombrello": {
+    "en": "umbrella",
+    "g": "m",
+    "emoji": "☂️",
+    "cat": "clothing"
+  },
+  "opera": {
+    "en": "work, opera",
+    "g": "f",
+    "emoji": "🎭",
+    "cat": "buildings"
+  },
+  "operaio": {
+    "en": "factory worker",
+    "g": "m",
+    "emoji": "👷",
+    "cat": "work"
+  },
+  "ora": {
+    "en": "hour; now",
+    "g": "f",
+    "emoji": "🕐",
+    "cat": "time"
+  },
+  "orario": {
+    "en": "timetable",
+    "g": "m",
+    "emoji": "🕐",
+    "cat": "school"
+  },
+  "orecchio": {
+    "en": "ear",
+    "g": "m",
+    "emoji": "👂",
+    "cat": "body"
+  },
+  "orgoglioso": {
+    "en": "proud (m)",
+    "g": "m",
+    "emoji": "😤",
+    "cat": "emotions"
+  },
+  "oro": {
+    "en": "gold",
+    "g": "m",
+    "emoji": "🥇",
+    "cat": "materials"
+  },
+  "orologio": {
+    "en": "clock, watch",
+    "g": "m",
+    "emoji": "🕰️",
+    "cat": "home"
+  },
+  "oscuro": {
+    "en": "dark (m)",
+    "g": "m"
+  },
+  "ospedale": {
+    "en": "hospital",
+    "g": "m",
+    "emoji": "🏥",
+    "cat": "health"
+  },
+  "padella": {
+    "en": "frying pan",
+    "g": "f",
+    "emoji": "🍳",
+    "cat": "kitchen"
+  },
+  "padre": {
+    "en": "father",
+    "g": "m",
+    "emoji": "👨",
+    "cat": "people"
+  },
+  "paese": {
+    "en": "country, village",
+    "g": "m",
+    "emoji": "🏘️",
+    "cat": "buildings"
+  },
+  "paesi": {
+    "en": "countries",
+    "g": "m"
+  },
+  "paglia": {
+    "en": "straw",
+    "g": "f",
+    "emoji": "🌾",
+    "cat": "materials"
+  },
+  "palazzi": {
+    "en": "palaces",
+    "g": "m",
+    "emoji": "🏰",
+    "cat": "buildings"
+  },
+  "palazzo": {
+    "en": "palace, building",
+    "g": "m",
+    "emoji": "🏰",
+    "cat": "buildings"
+  },
+  "palestra": {
+    "en": "gym",
+    "g": "f",
+    "emoji": "🏋️",
+    "cat": "freetime"
+  },
+  "pancia": {
+    "en": "belly",
+    "g": "f",
+    "emoji": "🫃",
+    "cat": "body"
+  },
+  "pane": {
+    "en": "bread",
+    "g": "m",
+    "emoji": "🍞",
+    "cat": "kitchen"
+  },
+  "panino": {
+    "en": "sandwich",
+    "g": "m",
+    "emoji": "🥪",
+    "cat": "kitchen"
+  },
+  "pantaloni": {
+    "en": "trousers",
+    "g": "m",
+    "emoji": "👖",
+    "cat": "clothing"
+  },
+  "parlare": {
+    "en": "to speak"
+  },
+  "parola": {
+    "en": "word",
+    "g": "f"
+  },
+  "parrucchiere": {
+    "en": "hairdresser (m)",
+    "g": "m",
+    "emoji": "💇",
+    "cat": "work"
+  },
+  "parte": {
+    "en": "part",
+    "g": "f"
+  },
+  "partire": {
+    "en": "to leave, to depart"
+  },
+  "partita": {
+    "en": "match, game",
+    "g": "f",
+    "emoji": "🏟️",
+    "cat": "freetime"
+  },
+  "pasqua": {
+    "en": "Easter",
+    "g": "f",
+    "emoji": "🐣",
+    "cat": "time"
+  },
+  "passaporto": {
+    "en": "passport",
+    "g": "m",
+    "emoji": "🛂",
+    "cat": "transport"
+  },
+  "passare": {
+    "en": "to pass"
+  },
+  "passeggiata": {
+    "en": "walk, stroll",
+    "g": "f",
+    "emoji": "🚶",
+    "cat": "freetime"
+  },
+  "pasta": {
+    "en": "pasta",
+    "g": "f",
+    "emoji": "🍝",
+    "cat": "kitchen"
+  },
+  "patata": {
+    "en": "potato",
+    "g": "f",
+    "emoji": "🥔",
+    "cat": "kitchen"
+  },
+  "patente": {
+    "en": "driving license",
+    "g": "f",
+    "emoji": "🪪",
+    "cat": "transport"
+  },
+  "paura": {
+    "en": "fear",
+    "g": "f",
+    "emoji": "😨",
+    "cat": "emotions"
+  },
+  "pausa": {
+    "en": "break",
+    "g": "f",
+    "emoji": "☕",
+    "cat": "school"
+  },
+  "penna": {
+    "en": "pen",
+    "g": "f",
+    "emoji": "🖊️",
+    "cat": "school"
+  },
+  "pensare": {
+    "en": "to think"
+  },
+  "pentola": {
+    "en": "pot",
+    "g": "f",
+    "emoji": "🍲",
+    "cat": "kitchen"
+  },
+  "pepe": {
+    "en": "pepper (spice)",
+    "g": "m",
+    "emoji": "🌶️",
+    "cat": "kitchen"
+  },
+  "perdere": {
+    "en": "to lose"
+  },
+  "pericoloso": {
+    "en": "dangerous (m)",
+    "g": "m"
+  },
+  "persona": {
+    "en": "person",
+    "g": "f",
+    "emoji": "🧑",
+    "cat": "people"
+  },
+  "persone": {
+    "en": "people",
+    "g": "f",
+    "emoji": "👥",
+    "cat": "people"
+  },
+  "pesce": {
+    "en": "fish",
+    "g": "m",
+    "emoji": "🐟",
+    "cat": "kitchen"
+  },
+  "piatto": {
+    "en": "plate, dish",
+    "g": "m",
+    "emoji": "🍽️",
+    "cat": "restaurant"
+  },
+  "piazza": {
+    "en": "square, plaza",
+    "g": "f",
+    "emoji": "🏛️",
+    "cat": "buildings"
+  },
+  "piccola": {
+    "en": "small (f)",
+    "g": "f"
+  },
+  "piccolo": {
+    "en": "small (m)",
+    "g": "m"
+  },
+  "piede": {
+    "en": "foot",
+    "g": "m",
+    "emoji": "🦶",
+    "cat": "body"
+  },
+  "piedi": {
+    "en": "feet",
+    "g": "m",
+    "emoji": "🦶",
+    "cat": "body"
+  },
+  "pietra": {
+    "en": "stone",
+    "g": "f",
+    "emoji": "🪨",
+    "cat": "outdoors"
+  },
+  "pietre": {
+    "en": "stones",
+    "g": "f",
+    "emoji": "🪨",
+    "cat": "outdoors"
+  },
+  "pioggia": {
+    "en": "rain",
+    "g": "f",
+    "emoji": "🌧️",
+    "cat": "weather"
+  },
+  "piscina": {
+    "en": "swimming pool",
+    "g": "f",
+    "emoji": "🏊",
+    "cat": "freetime"
+  },
+  "pittore": {
+    "en": "painter",
+    "g": "m",
+    "emoji": "🎨",
+    "cat": "people"
+  },
+  "pittura": {
+    "en": "painting",
+    "g": "f",
+    "emoji": "🖼️",
+    "cat": "school"
+  },
+  "pizza": {
+    "en": "pizza",
+    "g": "f",
+    "emoji": "🍕",
+    "cat": "kitchen"
+  },
+  "poliziotto": {
+    "en": "police officer (m)",
+    "g": "m",
+    "emoji": "👮",
+    "cat": "work"
+  },
+  "pollo": {
+    "en": "chicken",
+    "g": "m",
+    "emoji": "🍗",
+    "cat": "kitchen"
+  },
+  "polvere": {
+    "en": "dust, powder",
+    "g": "f"
+  },
+  "polvere da sparo": {
+    "en": "gunpowder",
+    "g": "f"
+  },
+  "pomeriggio": {
+    "en": "afternoon",
+    "g": "m",
+    "emoji": "🌤️",
+    "cat": "time"
+  },
+  "pomodoro": {
+    "en": "tomato",
+    "g": "m",
+    "emoji": "🍅",
+    "cat": "kitchen"
+  },
+  "ponte": {
+    "en": "bridge",
+    "g": "m",
+    "emoji": "🌉",
+    "cat": "outdoors"
+  },
+  "popolo": {
+    "en": "people, folk",
+    "g": "m"
+  },
+  "porta": {
+    "en": "door",
+    "g": "f",
+    "emoji": "🚪",
+    "cat": "home"
+  },
+  "portare": {
+    "en": "to carry, to bring"
+  },
+  "posta": {
+    "en": "post office",
+    "g": "f",
+    "emoji": "🏤",
+    "cat": "buildings"
+  },
+  "posto": {
+    "en": "place, seat",
+    "g": "m"
+  },
+  "potente": {
+    "en": "powerful"
+  },
+  "potere": {
+    "en": "to be able, power"
+  },
+  "povero": {
+    "en": "poor (m)",
+    "g": "m"
+  },
+  "pranzo": {
+    "en": "lunch",
+    "g": "m",
+    "emoji": "🍝",
+    "cat": "restaurant"
+  },
+  "prendere": {
+    "en": "to take"
+  },
+  "prenotazione": {
+    "en": "reservation",
+    "g": "f",
+    "emoji": "📝",
+    "cat": "restaurant"
+  },
+  "preoccupato": {
+    "en": "worried (m)",
+    "g": "m",
+    "emoji": "😟",
+    "cat": "emotions"
+  },
+  "preparare": {
+    "en": "to prepare"
+  },
+  "prezzo": {
+    "en": "price",
+    "g": "m",
+    "emoji": "🏷️",
+    "cat": "shop"
+  },
+  "prigione": {
+    "en": "prison",
+    "g": "f",
+    "emoji": "🏢",
+    "cat": "buildings"
+  },
+  "prima": {
+    "en": "before, first (f)"
+  },
+  "primavera": {
+    "en": "spring",
+    "g": "f",
+    "emoji": "🌸",
+    "cat": "time"
+  },
+  "primo": {
+    "en": "first (m)",
+    "g": "m"
+  },
+  "principe": {
+    "en": "prince",
+    "g": "m",
+    "emoji": "🤴",
+    "cat": "people"
+  },
+  "problema": {
+    "en": "problem",
+    "g": "m"
+  },
+  "professore": {
+    "en": "professor (m)",
+    "g": "m",
+    "emoji": "👨‍🏫",
+    "cat": "school"
+  },
+  "professoressa": {
+    "en": "professor (f)",
+    "g": "f",
+    "emoji": "👩‍🏫",
+    "cat": "school"
+  },
+  "provare": {
+    "en": "to try"
+  },
+  "punto": {
+    "en": "point",
+    "g": "m"
+  },
+  "quaderno": {
+    "en": "notebook",
+    "g": "m",
+    "emoji": "📓",
+    "cat": "school"
+  },
+  "quadro": {
+    "en": "painting, picture",
+    "g": "m",
+    "emoji": "🖼️",
+    "cat": "home"
+  },
+  "quando": {
+    "en": "when"
+  },
+  "quartiere": {
+    "en": "neighbourhood",
+    "g": "m",
+    "emoji": "🏘️",
+    "cat": "buildings"
+  },
+  "quello": {
+    "en": "that (m)"
+  },
+  "questo": {
+    "en": "this (m)"
+  },
+  "rabbia": {
+    "en": "anger",
+    "g": "f",
+    "emoji": "😠",
+    "cat": "emotions"
+  },
+  "raccontare": {
+    "en": "to tell (a story)"
+  },
+  "raffreddore": {
+    "en": "cold (illness)",
+    "g": "m",
+    "emoji": "🤧",
+    "cat": "health"
+  },
+  "ragazza": {
+    "en": "girl",
+    "g": "f",
+    "emoji": "👧",
+    "cat": "people"
+  },
+  "ragazzo": {
+    "en": "boy",
+    "g": "m",
+    "emoji": "👦",
+    "cat": "people"
+  },
+  "ragione": {
+    "en": "reason",
+    "g": "f"
+  },
+  "re": {
+    "en": "king",
+    "g": "m",
+    "emoji": "👑",
+    "cat": "people"
+  },
+  "realtà": {
+    "en": "reality",
+    "g": "f"
+  },
+  "regina": {
+    "en": "queen",
+    "g": "f",
+    "emoji": "👸",
+    "cat": "people"
+  },
+  "restare": {
+    "en": "to stay, to remain"
+  },
+  "rete": {
+    "en": "network, internet",
+    "g": "f",
+    "emoji": "🌐",
+    "cat": "technology"
+  },
+  "ricco": {
+    "en": "rich (m)",
+    "g": "m"
+  },
+  "ricetta": {
+    "en": "prescription; recipe",
+    "g": "f",
+    "emoji": "📋",
+    "cat": "health"
+  },
+  "ricordare": {
+    "en": "to remember"
+  },
+  "ridere": {
+    "en": "to laugh"
+  },
+  "rifiuto": {
+    "en": "waste, rubbish",
+    "g": "m",
+    "emoji": "🗑️",
+    "cat": "outdoors"
+  },
+  "righello": {
+    "en": "ruler",
+    "g": "m",
+    "emoji": "📏",
+    "cat": "school"
+  },
+  "riso": {
+    "en": "rice",
+    "g": "m",
+    "emoji": "🍚",
+    "cat": "kitchen"
+  },
+  "rispondere": {
+    "en": "to answer"
+  },
+  "risposta": {
+    "en": "answer",
+    "g": "f"
+  },
+  "ristorante": {
+    "en": "restaurant",
+    "g": "m",
+    "emoji": "🍽️",
+    "cat": "restaurant"
+  },
+  "ritornare": {
+    "en": "to return"
+  },
+  "romantico": {
+    "en": "romantic (m)",
+    "g": "m"
+  },
+  "rompere": {
+    "en": "to break"
+  },
+  "rosso": {
+    "en": "red (m)",
+    "g": "m"
+  },
+  "rumore": {
+    "en": "noise",
+    "g": "m"
+  },
+  "sabato": {
+    "en": "Saturday",
+    "g": "m",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "sala": {
+    "en": "hall, room",
+    "g": "f",
+    "emoji": "🏫",
+    "cat": "buildings"
+  },
+  "saldi": {
+    "en": "sales",
+    "g": "m",
+    "emoji": "💰",
+    "cat": "shop"
+  },
+  "sale": {
+    "en": "salt",
+    "g": "m",
+    "emoji": "🧂",
+    "cat": "kitchen"
+  },
+  "saltare": {
+    "en": "to jump"
+  },
+  "sangue": {
+    "en": "blood",
+    "g": "m"
+  },
+  "sapere": {
+    "en": "to know (fact)"
+  },
+  "sapone": {
+    "en": "soap",
+    "g": "m",
+    "emoji": "🧼",
+    "cat": "home"
+  },
+  "sbagliare": {
+    "en": "to make a mistake"
+  },
+  "scala": {
+    "en": "stairs, ladder",
+    "g": "f",
+    "emoji": "🪜",
+    "cat": "home"
+  },
+  "scappare": {
+    "en": "to escape, to run away"
+  },
+  "scarpe": {
+    "en": "shoes",
+    "g": "f",
+    "emoji": "👟",
+    "cat": "clothing"
+  },
+  "schiavo": {
+    "en": "slave",
+    "g": "m"
+  },
+  "schiena": {
+    "en": "back (body)",
+    "g": "f",
+    "emoji": "🔙",
+    "cat": "body"
+  },
+  "sciarpa": {
+    "en": "scarf",
+    "g": "f",
+    "emoji": "🧣",
+    "cat": "clothing"
+  },
+  "scienza": {
+    "en": "science",
+    "g": "f",
+    "emoji": "🔬",
+    "cat": "school"
+  },
+  "sconto": {
+    "en": "discount",
+    "g": "m",
+    "emoji": "💸",
+    "cat": "shop"
+  },
+  "scoprire": {
+    "en": "to discover"
+  },
+  "scrivere": {
+    "en": "to write"
+  },
+  "scuola": {
+    "en": "school",
+    "g": "f",
+    "emoji": "🏫",
+    "cat": "buildings"
+  },
+  "secondo": {
+    "en": "second",
+    "g": "m",
+    "emoji": "⏱️",
+    "cat": "time"
+  },
+  "sedia": {
+    "en": "chair",
+    "g": "f",
+    "emoji": "🪑",
+    "cat": "home"
+  },
+  "segreto": {
+    "en": "secret",
+    "g": "m"
+  },
+  "sempre": {
+    "en": "always"
+  },
+  "sentire": {
+    "en": "to hear, to feel"
+  },
+  "sera": {
+    "en": "evening",
+    "g": "f",
+    "emoji": "🌆",
+    "cat": "outdoors"
+  },
+  "settimana": {
+    "en": "week",
+    "g": "f",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "signora": {
+    "en": "madam, lady",
+    "g": "f",
+    "emoji": "👩",
+    "cat": "people"
+  },
+  "signore": {
+    "en": "sir, gentleman",
+    "g": "m",
+    "emoji": "🤵",
+    "cat": "people"
+  },
+  "simile": {
+    "en": "similar"
+  },
+  "società": {
+    "en": "society",
+    "g": "f"
+  },
+  "software": {
+    "en": "software",
+    "g": "m",
+    "emoji": "💿",
+    "cat": "technology"
+  },
+  "soldi": {
+    "en": "money",
+    "g": "m",
+    "emoji": "💰",
+    "cat": "shop"
+  },
+  "sole": {
+    "en": "sun",
+    "g": "m",
+    "emoji": "☀️",
+    "cat": "outdoors"
+  },
+  "solo": {
+    "en": "alone, only"
+  },
+  "sorella": {
+    "en": "sister",
+    "g": "f",
+    "emoji": "👧",
+    "cat": "people"
+  },
+  "sorpresa": {
+    "en": "surprise",
+    "g": "f",
+    "emoji": "😲",
+    "cat": "emotions"
+  },
+  "sotto": {
+    "en": "under"
+  },
+  "spada": {
+    "en": "sword",
+    "g": "f",
+    "emoji": "⚔️",
+    "cat": "fantasy"
+  },
+  "spalla": {
+    "en": "shoulder",
+    "g": "f",
+    "emoji": "🤷",
+    "cat": "body"
+  },
+  "sparo": {
+    "en": "shot, gunpowder",
+    "g": "m"
+  },
+  "specchio": {
+    "en": "mirror",
+    "g": "m",
+    "emoji": "🪞",
+    "cat": "bedroom"
+  },
+  "speranza": {
+    "en": "hope",
+    "g": "f",
+    "emoji": "🙏",
+    "cat": "emotions"
+  },
+  "spettacolo": {
+    "en": "show, performance",
+    "g": "m",
+    "emoji": "🎪",
+    "cat": "freetime"
+  },
+  "spiaggia": {
+    "en": "beach",
+    "g": "f",
+    "emoji": "🏖️",
+    "cat": "outdoors"
+  },
+  "sport": {
+    "en": "sport",
+    "g": "m",
+    "emoji": "⚽",
+    "cat": "freetime"
+  },
+  "squadra": {
+    "en": "team",
+    "g": "f",
+    "emoji": "👥",
+    "cat": "freetime"
+  },
+  "stanca": {
+    "en": "tired (f)",
+    "g": "f",
+    "emoji": "😫",
+    "cat": "emotions"
+  },
+  "stanco": {
+    "en": "tired (m)",
+    "g": "m",
+    "emoji": "😫",
+    "cat": "emotions"
+  },
+  "stanza": {
+    "en": "room",
+    "g": "f",
+    "emoji": "🚪",
+    "cat": "home"
+  },
+  "stazione": {
+    "en": "station",
+    "g": "f",
+    "emoji": "🚉",
+    "cat": "transport"
+  },
+  "stella": {
+    "en": "star",
+    "g": "f",
+    "emoji": "⭐",
+    "cat": "outdoors"
+  },
+  "stelle": {
+    "en": "stars",
+    "g": "f",
+    "emoji": "✨",
+    "cat": "outdoors"
+  },
+  "stipendio": {
+    "en": "salary",
+    "g": "m",
+    "emoji": "💰",
+    "cat": "work"
+  },
+  "stivali": {
+    "en": "boots",
+    "g": "m",
+    "emoji": "👢",
+    "cat": "clothing"
+  },
+  "stomaco": {
+    "en": "stomach",
+    "g": "m",
+    "emoji": "🫃",
+    "cat": "health"
+  },
+  "storia": {
+    "en": "story, history",
+    "g": "f"
+  },
+  "storie": {
+    "en": "stories",
+    "g": "f"
+  },
+  "strada": {
+    "en": "street, road",
+    "g": "f",
+    "emoji": "🛤️",
+    "cat": "outdoors"
+  },
+  "strade": {
+    "en": "streets",
+    "g": "f",
+    "emoji": "🛤️",
+    "cat": "outdoors"
+  },
+  "studente": {
+    "en": "student (m)",
+    "g": "m",
+    "emoji": "👨‍🎓",
+    "cat": "school"
+  },
+  "studentessa": {
+    "en": "student (f)",
+    "g": "f",
+    "emoji": "👩‍🎓",
+    "cat": "school"
+  },
+  "studiare": {
+    "en": "to study"
+  },
+  "studio": {
+    "en": "study, studio",
+    "g": "m",
+    "emoji": "📚",
+    "cat": "school"
+  },
+  "succo": {
+    "en": "juice",
+    "g": "m",
+    "emoji": "🧃",
+    "cat": "kitchen"
+  },
+  "supermercato": {
+    "en": "supermarket",
+    "g": "m",
+    "emoji": "🛒",
+    "cat": "shop"
+  },
+  "sveglia": {
+    "en": "alarm clock",
+    "g": "f",
+    "emoji": "⏰",
+    "cat": "bedroom"
+  },
+  "taglia": {
+    "en": "size (clothing)",
+    "g": "f",
+    "emoji": "📏",
+    "cat": "shop"
+  },
+  "tappeto": {
+    "en": "carpet, rug",
+    "g": "m",
+    "emoji": "🧱",
+    "cat": "bedroom"
+  },
+  "tavolo": {
+    "en": "table",
+    "g": "m",
+    "emoji": "🪑",
+    "cat": "restaurant"
+  },
+  "taxi": {
+    "en": "taxi",
+    "g": "m",
+    "emoji": "🚕",
+    "cat": "transport"
+  },
+  "te": {
+    "en": "tea",
+    "g": "m",
+    "emoji": "🍵",
+    "cat": "restaurant"
+  },
+  "teatro": {
+    "en": "theatre",
+    "g": "m",
+    "emoji": "🎭",
+    "cat": "freetime"
+  },
+  "telefono": {
+    "en": "telephone",
+    "g": "m",
+    "emoji": "📱",
+    "cat": "home"
+  },
+  "telescopio": {
+    "en": "telescope",
+    "g": "m",
+    "emoji": "🔭",
+    "cat": "school"
+  },
+  "televisione": {
+    "en": "television",
+    "g": "f",
+    "emoji": "📺",
+    "cat": "home"
+  },
+  "temperatura": {
+    "en": "temperature",
+    "g": "f",
+    "emoji": "🌡️",
+    "cat": "weather"
+  },
+  "tempo": {
+    "en": "time, weather",
+    "g": "m"
+  },
+  "temporale": {
+    "en": "storm",
+    "g": "m",
+    "emoji": "⛈️",
+    "cat": "weather"
+  },
+  "tenere": {
+    "en": "to hold, to keep"
+  },
+  "terra": {
+    "en": "earth, ground",
+    "g": "f",
+    "emoji": "🌍",
+    "cat": "outdoors"
+  },
+  "testa": {
+    "en": "head",
+    "g": "f",
+    "emoji": "🗣️",
+    "cat": "body"
+  },
+  "tetto": {
+    "en": "roof",
+    "g": "m",
+    "emoji": "🏠",
+    "cat": "home"
+  },
+  "tornare": {
+    "en": "to return"
+  },
+  "torta": {
+    "en": "cake",
+    "g": "f",
+    "emoji": "🎂",
+    "cat": "kitchen"
+  },
+  "tosse": {
+    "en": "cough",
+    "g": "f",
+    "emoji": "😷",
+    "cat": "health"
+  },
+  "tovagliolo": {
+    "en": "napkin",
+    "g": "m",
+    "emoji": "🧻",
+    "cat": "restaurant"
+  },
+  "tranquillo": {
+    "en": "calm (m)",
+    "g": "m",
+    "emoji": "😌",
+    "cat": "emotions"
+  },
+  "treno": {
+    "en": "train",
+    "g": "m",
+    "emoji": "🚂",
+    "cat": "transport"
+  },
+  "triste": {
+    "en": "sad"
+  },
+  "tristezza": {
+    "en": "sadness",
+    "g": "f",
+    "emoji": "😢",
+    "cat": "emotions"
+  },
+  "trovare": {
+    "en": "to find"
+  },
+  "tutto": {
+    "en": "all, everything"
+  },
+  "uccello": {
+    "en": "bird",
+    "g": "m",
+    "emoji": "🐦",
+    "cat": "outdoors"
+  },
+  "ufficio": {
+    "en": "office",
+    "g": "m",
+    "emoji": "🏢",
+    "cat": "work"
+  },
+  "università": {
+    "en": "university",
+    "g": "f",
+    "emoji": "🎓",
+    "cat": "buildings"
+  },
+  "uomo": {
+    "en": "man",
+    "g": "m",
+    "emoji": "👨",
+    "cat": "people"
+  },
+  "uova": {
+    "en": "eggs",
+    "g": "f",
+    "emoji": "🥚",
+    "cat": "kitchen"
+  },
+  "uovo": {
+    "en": "egg",
+    "g": "m",
+    "emoji": "🥚",
+    "cat": "kitchen"
+  },
+  "uscire": {
+    "en": "to go out"
+  },
+  "vacanza": {
+    "en": "holiday",
+    "g": "f",
+    "emoji": "🏖️",
+    "cat": "freetime"
+  },
+  "valigia": {
+    "en": "suitcase",
+    "g": "f",
+    "emoji": "🧳",
+    "cat": "transport"
+  },
+  "vecchio": {
+    "en": "old (m)",
+    "g": "m"
+  },
+  "vedere": {
+    "en": "to see"
+  },
+  "vendere": {
+    "en": "to sell"
+  },
+  "venerdi": {
+    "en": "Friday",
+    "g": "m",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "venire": {
+    "en": "to come"
+  },
+  "vento": {
+    "en": "wind",
+    "g": "m",
+    "emoji": "💨",
+    "cat": "outdoors"
+  },
+  "verde": {
+    "en": "green"
+  },
+  "verdura": {
+    "en": "vegetables",
+    "g": "f",
+    "emoji": "🥬",
+    "cat": "kitchen"
+  },
+  "vergogna": {
+    "en": "shame",
+    "g": "f",
+    "emoji": "😳",
+    "cat": "emotions"
+  },
+  "verità": {
+    "en": "truth",
+    "g": "f"
+  },
+  "verso": {
+    "en": "towards; verse",
+    "g": "m"
+  },
+  "vestito": {
+    "en": "dress, suit",
+    "g": "m",
+    "emoji": "👗",
+    "cat": "clothing"
+  },
+  "via": {
+    "en": "street; away",
+    "g": "f"
+  },
+  "viaggio": {
+    "en": "journey, trip",
+    "g": "m",
+    "emoji": "🧳",
+    "cat": "outdoors"
+  },
+  "vicino": {
+    "en": "near, neighbor",
+    "g": "m",
+    "emoji": "🏘️",
+    "cat": "people"
+  },
+  "video": {
+    "en": "video",
+    "g": "m",
+    "emoji": "🎥",
+    "cat": "technology"
+  },
+  "vincere": {
+    "en": "to win"
+  },
+  "vino": {
+    "en": "wine",
+    "g": "m",
+    "emoji": "🍷",
+    "cat": "restaurant"
+  },
+  "vita": {
+    "en": "life",
+    "g": "f"
+  },
+  "vivere": {
+    "en": "to live"
+  },
+  "vivo": {
+    "en": "alive (m)",
+    "g": "m"
+  },
+  "voce": {
+    "en": "voice",
+    "g": "f"
+  },
+  "volare": {
+    "en": "to fly"
+  },
+  "volere": {
+    "en": "to want"
+  },
+  "volta": {
+    "en": "time (occurrence); turn",
+    "g": "f"
+  },
+  "voto": {
+    "en": "grade, mark",
+    "g": "m",
+    "emoji": "💯",
+    "cat": "school"
+  },
+  "vulcano": {
+    "en": "volcano",
+    "g": "m",
+    "emoji": "🌋",
+    "cat": "outdoors"
+  },
+  "zaino": {
+    "en": "backpack",
+    "g": "m",
+    "emoji": "🎒",
+    "cat": "school"
+  },
+  "zia": {
+    "en": "aunt",
+    "g": "f",
+    "emoji": "👩",
+    "cat": "people"
+  },
+  "zio": {
+    "en": "uncle",
+    "g": "m",
+    "emoji": "👨",
+    "cat": "people"
+  },
+  "zona": {
+    "en": "zone, area",
+    "g": "f"
+  },
+  "zucchero": {
+    "en": "sugar",
+    "g": "m",
+    "emoji": "🍬",
+    "cat": "kitchen"
+  },
+  "zuppa": {
+    "en": "soup",
+    "g": "f",
+    "emoji": "🍲",
+    "cat": "kitchen"
+  },
+  "chi": {
+    "en": "who",
+    "emoji": "❓",
+    "cat": "school"
+  },
+  "che": {
+    "en": "what, that",
+    "emoji": "❓",
+    "cat": "school"
+  },
+  "che cosa": {
+    "en": "what",
+    "emoji": "❓",
+    "cat": "school"
+  },
+  "perche": {
+    "en": "why, because",
+    "emoji": "❓",
+    "cat": "school"
+  },
+  "come": {
+    "en": "how",
+    "emoji": "❓",
+    "cat": "school"
+  },
+  "quanto": {
+    "en": "how much",
+    "emoji": "❓",
+    "cat": "school"
+  },
+  "quanti": {
+    "en": "how many",
+    "emoji": "❓",
+    "cat": "school"
+  },
+  "quale": {
+    "en": "which",
+    "emoji": "❓",
+    "cat": "school"
+  },
+  "oggi": {
+    "en": "today",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "ieri": {
+    "en": "yesterday",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "domani": {
+    "en": "tomorrow",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "stasera": {
+    "en": "this evening",
+    "emoji": "🌆",
+    "cat": "time"
+  },
+  "stanotte": {
+    "en": "tonight",
+    "emoji": "🌙",
+    "cat": "time"
+  },
+  "adesso": {
+    "en": "now",
+    "emoji": "⏰",
+    "cat": "time"
+  },
+  "subito": {
+    "en": "immediately",
+    "emoji": "⚡",
+    "cat": "time"
+  },
+  "presto": {
+    "en": "early, soon",
+    "emoji": "🌅",
+    "cat": "time"
+  },
+  "tardi": {
+    "en": "late",
+    "emoji": "🌙",
+    "cat": "time"
+  },
+  "gennaio": {
+    "en": "January",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "febbraio": {
+    "en": "February",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "marzo": {
+    "en": "March",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "aprile": {
+    "en": "April",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "maggio": {
+    "en": "May",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "giugno": {
+    "en": "June",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "luglio": {
+    "en": "July",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "agosto": {
+    "en": "August",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "settembre": {
+    "en": "September",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "ottobre": {
+    "en": "October",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "novembre": {
+    "en": "November",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "dicembre": {
+    "en": "December",
+    "emoji": "📅",
+    "cat": "time"
+  },
+  "tablet": {
+    "en": "tablet",
+    "g": "f",
+    "emoji": "📱",
+    "cat": "technology"
+  },
+  "applicazione": {
+    "en": "app, application",
+    "g": "f",
+    "emoji": "📲",
+    "cat": "technology"
+  },
+  "internet": {
+    "en": "internet",
+    "g": "m",
+    "emoji": "🌐",
+    "cat": "technology"
+  },
+  "sito web": {
+    "en": "website",
+    "g": "m",
+    "emoji": "🌐",
+    "cat": "technology"
+  },
+  "email": {
+    "en": "email",
+    "g": "f",
+    "emoji": "📧",
+    "cat": "technology"
+  },
+  "password": {
+    "en": "password",
+    "g": "f",
+    "emoji": "🔑",
+    "cat": "technology"
+  },
+  "wifi": {
+    "en": "wifi",
+    "g": "m",
+    "emoji": "📶",
+    "cat": "technology"
+  },
+  "caricabatterie": {
+    "en": "charger",
+    "g": "m",
+    "emoji": "🔌",
+    "cat": "technology"
+  },
+  "cuffie": {
+    "en": "headphones",
+    "g": "f",
+    "emoji": "🎧",
+    "cat": "technology"
+  },
+  "stampante": {
+    "en": "printer",
+    "g": "f",
+    "emoji": "🖨️",
+    "cat": "technology"
+  },
+  "schermo": {
+    "en": "screen",
+    "g": "m",
+    "emoji": "🖥️",
+    "cat": "technology"
+  },
+  "mouse": {
+    "en": "computer mouse",
+    "g": "m",
+    "emoji": "🖱️",
+    "cat": "technology"
+  },
+  "tastiera": {
+    "en": "keyboard",
+    "g": "f",
+    "emoji": "⌨️",
+    "cat": "technology"
+  },
+  "file": {
+    "en": "file",
+    "g": "m",
+    "emoji": "📄",
+    "cat": "technology"
+  },
+  "cartella": {
+    "en": "folder",
+    "g": "f",
+    "emoji": "📁",
+    "cat": "technology"
+  },
+  "videogame": {
+    "en": "video game",
+    "g": "m",
+    "emoji": "🎮",
+    "cat": "technology"
+  },
+  "streaming": {
+    "en": "streaming",
+    "g": "m",
+    "emoji": "📺",
+    "cat": "technology"
+  },
+  "camera": {
+    "en": "camera",
+    "g": "f",
+    "emoji": "📷",
+    "cat": "technology"
+  },
+  "batteria": {
+    "en": "battery",
+    "g": "f",
+    "emoji": "🔋",
+    "cat": "technology"
+  },
+  "contanti": {
+    "en": "cash",
+    "g": "m",
+    "emoji": "💵",
+    "cat": "shop"
+  },
+  "carta di credito": {
+    "en": "credit card",
+    "g": "f",
+    "emoji": "💳",
+    "cat": "shop"
+  },
+  "bancomat": {
+    "en": "debit card, ATM",
+    "g": "m",
+    "emoji": "💳",
+    "cat": "shop"
+  },
+  "scontrino": {
+    "en": "receipt",
+    "g": "m",
+    "emoji": "🧾",
+    "cat": "shop"
+  },
+  "resto": {
+    "en": "change (money)",
+    "g": "m",
+    "emoji": "🪙",
+    "cat": "shop"
+  },
+  "scontato": {
+    "en": "discounted (m)",
+    "g": "m",
+    "emoji": "💸",
+    "cat": "shop"
+  },
+  "caro": {
+    "en": "expensive (m)",
+    "g": "m",
+    "emoji": "💰",
+    "cat": "shop"
+  },
+  "economico": {
+    "en": "cheap (m)",
+    "g": "m",
+    "emoji": "💵",
+    "cat": "shop"
+  },
+  "gratis": {
+    "en": "free (no cost)",
+    "emoji": "🆓",
+    "cat": "shop"
+  },
+  "comprare": {
+    "en": "to buy",
+    "emoji": "🛒",
+    "cat": "shop"
+  },
+  "vendere": {
+    "en": "to sell",
+    "emoji": "💰",
+    "cat": "shop"
+  },
+  "pagare": {
+    "en": "to pay",
+    "emoji": "💳",
+    "cat": "shop"
+  },
+  "offerta": {
+    "en": "offer, deal",
+    "g": "f",
+    "emoji": "🏷️",
+    "cat": "shop"
+  },
+  "articolo": {
+    "en": "item, article",
+    "g": "m",
+    "emoji": "📦",
+    "cat": "shop"
+  },
+  "negoziante": {
+    "en": "shopkeeper",
+    "g": "m",
+    "emoji": "🧑‍💼",
+    "cat": "shop"
+  },
+  "cliente": {
+    "en": "customer",
+    "g": "m",
+    "emoji": "🛍️",
+    "cat": "shop"
+  },
+  "camicetta": {
+    "en": "blouse",
+    "g": "f",
+    "emoji": "👚",
+    "cat": "clothing"
+  },
+  "cappotto": {
+    "en": "coat",
+    "g": "m",
+    "emoji": "🧥",
+    "cat": "clothing"
+  },
+  "cravatta": {
+    "en": "tie",
+    "g": "f",
+    "emoji": "👔",
+    "cat": "clothing"
+  },
+  "vestito": {
+    "en": "dress, suit",
+    "g": "m",
+    "emoji": "👗",
+    "cat": "clothing"
+  },
+  "triste": {
+    "en": "sad",
+    "emoji": "😢",
+    "cat": "emotions"
+  },
+  "ansia": {
+    "en": "anxiety",
+    "g": "f",
+    "emoji": "😰",
+    "cat": "emotions"
+  },
+  "deluso": {
+    "en": "disappointed (m)",
+    "g": "m",
+    "emoji": "😞",
+    "cat": "emotions"
+  },
+  "eccitato": {
+    "en": "excited (m)",
+    "g": "m",
+    "emoji": "🤩",
+    "cat": "emotions"
+  },
+  "geloso": {
+    "en": "jealous (m)",
+    "g": "m",
+    "emoji": "😒",
+    "cat": "emotions"
+  },
+  "imbarazzato": {
+    "en": "embarrassed (m)",
+    "g": "m",
+    "emoji": "😳",
+    "cat": "emotions"
+  },
+  "innamorato": {
+    "en": "in love (m)",
+    "g": "m",
+    "emoji": "😍",
+    "cat": "emotions"
+  },
+  "solitario": {
+    "en": "lonely (m)",
+    "g": "m",
+    "emoji": "😔",
+    "cat": "emotions"
+  }
+}

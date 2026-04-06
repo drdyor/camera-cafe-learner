@@ -1,0 +1,35 @@
+{
+  "id": "theme1-technology",
+  "title": "Il Telefono e i Social",
+  "englishTitle": "Phone and Social Media",
+  "level": "A1-A2",
+  "gcseTheme": "Theme 1: Identity and Culture",
+  "scenario": "You're chatting with your Italian friend about phones and social media.",
+  "characters": [
+    { "id": "sofia", "name": "Sofia", "emoji": "👧", "role": "Italian friend" },
+    { "id": "you", "name": "Tu", "emoji": "🧑", "role": "You" }
+  ],
+  "lines": [
+    { "speaker": "sofia", "italian": "Hai un telefono nuovo?", "english": "Do you have a new phone?" },
+    { "speaker": "you", "italian": "Sì! L'ho comprato la settimana scorsa.", "english": "Yes! I bought it last week." },
+    { "speaker": "sofia", "italian": "Bello! Usi i social media?", "english": "Nice! Do you use social media?" },
+    { "speaker": "you", "italian": "Sì, uso il telefono tutti i giorni.", "english": "Yes, I use the phone every day." },
+    { "speaker": "sofia", "italian": "Cosa fai con il telefono?", "english": "What do you do with the phone?" },
+    { "speaker": "you", "italian": "Mando messaggi, scatto foto e ascolto musica.", "english": "I send messages, take photos and listen to music." },
+    { "speaker": "sofia", "italian": "Anch'io! Guardo anche video e gioco.", "english": "Me too! I also watch videos and play games." },
+    { "speaker": "you", "italian": "Quante ore al giorno usi il telefono?", "english": "How many hours a day do you use the phone?" },
+    { "speaker": "sofia", "italian": "Circa tre ore. Forse troppo!", "english": "About three hours. Maybe too much!" },
+    { "speaker": "you", "italian": "Mia madre dice che uso il telefono troppo.", "english": "My mother says I use the phone too much." },
+    { "speaker": "sofia", "italian": "Anche mio padre! Dice che devo leggere libri.", "english": "My father too! He says I must read books." },
+    { "speaker": "you", "italian": "Hai un computer?", "english": "Do you have a computer?" },
+    { "speaker": "sofia", "italian": "Sì, lo uso per i compiti di scuola.", "english": "Yes, I use it for school homework." },
+    { "speaker": "you", "italian": "Io preferisco il telefono. È più facile.", "english": "I prefer the phone. It's easier." },
+    { "speaker": "sofia", "italian": "Hai ragione! Il telefono è molto utile.", "english": "You're right! The phone is very useful." }
+  ],
+  "keyVocab": ["telefono", "messaggio", "foto", "musica", "video", "gioco", "computer", "libro", "madre", "padre"],
+  "practicePrompts": [
+    { "prompt": "How would you say you listen to music every day?", "answer": "Ascolto musica tutti i giorni." },
+    { "prompt": "How would you ask how many hours someone uses the phone?", "answer": "Quante ore usi il telefono?" },
+    { "prompt": "How would you say you prefer the computer?", "answer": "Preferisco il computer." }
+  ]
+}

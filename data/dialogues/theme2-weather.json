@@ -1,0 +1,34 @@
+{
+  "id": "theme2-weather",
+  "title": "Che Tempo Fa?",
+  "englishTitle": "What's the Weather Like?",
+  "level": "A1-A2",
+  "gcseTheme": "Theme 2: Local, National, International and Global Areas",
+  "scenario": "You're planning a day out with an Italian friend and discussing the weather.",
+  "characters": [
+    { "id": "giulia", "name": "Giulia", "emoji": "👧", "role": "Italian friend" },
+    { "id": "you", "name": "Tu", "emoji": "🧑", "role": "You" }
+  ],
+  "lines": [
+    { "speaker": "giulia", "italian": "Che tempo fa oggi?", "english": "What's the weather like today?" },
+    { "speaker": "you", "italian": "Fa bel tempo. C'è il sole.", "english": "The weather is nice. It's sunny." },
+    { "speaker": "giulia", "italian": "Fa caldo? Voglio andare in spiaggia.", "english": "Is it hot? I want to go to the beach." },
+    { "speaker": "you", "italian": "Sì, fa molto caldo. Trenta gradi!", "english": "Yes, it's very hot. Thirty degrees!" },
+    { "speaker": "giulia", "italian": "Perfetto! Andiamo al mare?", "english": "Perfect! Shall we go to the sea?" },
+    { "speaker": "you", "italian": "Sì! Ma domani pioverà.", "english": "Yes! But tomorrow it will rain." },
+    { "speaker": "giulia", "italian": "Davvero? Ho visto le nuvole questa mattina.", "english": "Really? I saw the clouds this morning." },
+    { "speaker": "you", "italian": "D'inverno qui fa molto freddo e nevica.", "english": "In winter it's very cold here and it snows." },
+    { "speaker": "giulia", "italian": "In Italia d'estate fa sempre caldo.", "english": "In Italy in summer it's always hot." },
+    { "speaker": "you", "italian": "Preferisco la primavera. Non fa troppo caldo.", "english": "I prefer spring. It's not too hot." },
+    { "speaker": "giulia", "italian": "A me piace l'autunno. I colori sono belli.", "english": "I like autumn. The colours are beautiful." },
+    { "speaker": "you", "italian": "Porta l'ombrello domani!", "english": "Bring the umbrella tomorrow!" },
+    { "speaker": "giulia", "italian": "Sì, e una giacca. La sera fa fresco.", "english": "Yes, and a jacket. In the evening it's cool." },
+    { "speaker": "you", "italian": "Oggi però andiamo al mare! Prendi il costume!", "english": "Today though let's go to the sea! Get your swimsuit!" }
+  ],
+  "keyVocab": ["sole", "caldo", "pioggia", "neve", "nuvola", "vento", "mare", "spiaggia", "ombrello", "estate"],
+  "practicePrompts": [
+    { "prompt": "How would you say it's cold?", "answer": "Fa freddo." },
+    { "prompt": "How would you ask what the weather is like?", "answer": "Che tempo fa?" },
+    { "prompt": "How would you say it's raining?", "answer": "Piove." }
+  ]
+}

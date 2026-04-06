@@ -1,0 +1,57 @@
+{
+  "id": "gcse-theme1-family-technology",
+  "title": "La Mia Famiglia e la Tecnologia",
+  "englishTitle": "My Family and Technology",
+  "level": "A1-A2",
+  "gcseTheme": "Theme 1: Identity and Culture",
+  "gcseTopic": "Family + Technology in Everyday Life",
+  "examFocus": "Speaking role play, description of photo, family relationships",
+  "lines": [
+    {"italian": "Mi chiamo Marco. Ho sedici anni.", "english": "My name is Marco. I am sixteen years old."},
+    {"italian": "Abito a Londra con la mia famiglia.", "english": "I live in London with my family."},
+    {"italian": "Mia madre si chiama Anna. Mia madre è insegnante.", "english": "My mother is called Anna. My mother is a teacher."},
+    {"italian": "Mio padre si chiama Luca. Mio padre è medico.", "english": "My father is called Luca. My father is a doctor."},
+    {"italian": "Ho una sorella. Mia sorella si chiama Giulia.", "english": "I have a sister. My sister is called Giulia."},
+    {"italian": "Giulia ha quattordici anni. È più giovane di me.", "english": "Giulia is fourteen years old. She is younger than me."},
+    {"italian": "Mia nonna abita con noi. È molto simpatica.", "english": "My grandmother lives with us. She is very nice."},
+    {"italian": "Tutti i giorni uso il telefono.", "english": "Every day I use the phone."},
+    {"italian": "Ho uno smartphone. Lo uso molto.", "english": "I have a smartphone. I use it a lot."},
+    {"italian": "Mi piacciono i social media.", "english": "I like social media."},
+    {"italian": "Uso Instagram e TikTok.", "english": "I use Instagram and TikTok."},
+    {"italian": "Ogni mattina leggo i messaggi.", "english": "Every morning I read the messages."},
+    {"italian": "Mando messaggi ai miei amici.", "english": "I send messages to my friends."},
+    {"italian": "Scatto molte foto con il telefono.", "english": "I take many photos with the phone."},
+    {"italian": "Mia madre dice: 'Sei sempre sul telefono!'", "english": "My mother says: 'You are always on the phone!'"},
+    {"italian": "Mio padre è più vecchio. Non capisce la tecnologia.", "english": "My father is older. He doesn't understand technology."},
+    {"italian": "Mia nonna non ha uno smartphone.", "english": "My grandmother doesn't have a smartphone."},
+    {"italian": "Lei preferisce parlare faccia a faccia.", "english": "She prefers to talk face to face."},
+    {"italian": "Il sabato mangiamo tutti insieme.", "english": "On Saturday we all eat together."},
+    {"italian": "Non usiamo il telefono a tavola.", "english": "We don't use the phone at the table."},
+    {"italian": "Mia madre cucina la cena. È deliziosa.", "english": "My mother cooks dinner. It is delicious."},
+    {"italian": "Parliamo di scuola e di amici.", "english": "We talk about school and friends."},
+    {"italian": "Dopo cena faccio i compiti.", "english": "After dinner I do homework."},
+    {"italian": "Uso l'internet per la scuola.", "english": "I use the internet for school."},
+    {"italian": "A volte gioco ai videogiochi.", "english": "Sometimes I play video games."},
+    {"italian": "Mia sorella ascolta la musica online.", "english": "My sister listens to music online."},
+    {"italian": "Ognuno ha i propri interessi.", "english": "Everyone has their own interests."},
+    {"italian": "Ma ci amiamo tutti.", "english": "But we all love each other."},
+    {"italian": "La famiglia è importante per me.", "english": "Family is important to me."},
+    {"italian": "La tecnologia aiuta, ma la famiglia viene prima.", "english": "Technology helps, but family comes first."}
+  ],
+  "gcseVocabulary": {
+    "family": ["madre", "padre", "sorella", "nonna", "famiglia"],
+    "technology": ["telefono", "smartphone", "social media", "internet", "messaggi"],
+    "dailyRoutine": ["tutti i giorni", "ogni mattina", "dopo cena", "il sabato"],
+    "verbs": ["uso", "mando", "scatto", "leggo", "gioco", "ascolto"]
+  },
+  "examPractice": {
+    "rolePlay": "Describe your family. Who do you live with? What are their jobs?",
+    "photoCard": "Describe a family photo. What are they doing? Where are they?",
+    "translationDrill": [
+      {"en": "I live with my family", "it": "Abito con la mia famiglia"},
+      {"en": "I use my phone every day", "it": "Uso il telefono tutti i giorni"},
+      {"en": "Technology is important", "it": "La tecnologia è importante"}
+    ]
+  },
+  "generatedAt": "2026-04-05T22:00:00.000Z"
+}

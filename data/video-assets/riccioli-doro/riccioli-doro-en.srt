@@ -1,0 +1,187 @@
+1
+00:00:01,500 --> 00:00:04,596
+Once upon a time there was a little girl.
+
+2
+00:00:05,396 --> 00:00:08,564
+Her name was Goldilocks.
+
+3
+00:00:09,364 --> 00:00:12,340
+She has blond, curly hair.
+
+4
+00:00:13,140 --> 00:00:16,764
+One day, she walks in the forest.
+
+5
+00:00:17,564 --> 00:00:20,420
+She sees a small house.
+
+6
+00:00:21,220 --> 00:00:23,836
+The door is open.
+
+7
+00:00:24,636 --> 00:00:27,876
+Goldilocks enters the house.
+
+8
+00:00:28,676 --> 00:00:32,684
+On the table there are three bowls of soup.
+
+9
+00:00:33,484 --> 00:00:36,268
+She tries the first soup.
+
+10
+00:00:37,068 --> 00:00:40,476
+"This soup is too hot!"
+
+11
+00:00:41,276 --> 00:00:44,252
+She tries the second soup.
+
+12
+00:00:45,052 --> 00:00:48,388
+"This soup is too cold!"
+
+13
+00:00:49,188 --> 00:00:52,044
+She tries the third soup.
+
+14
+00:00:52,844 --> 00:00:55,964
+"This soup is perfect!"
+
+15
+00:00:56,764 --> 00:00:59,668
+She eats all the soup.
+
+16
+00:01:00,468 --> 00:01:03,060
+Then she sees three chairs.
+
+17
+00:01:03,860 --> 00:01:06,884
+She sits on the first chair.
+
+18
+00:01:07,684 --> 00:01:10,708
+"This chair is too hard!"
+
+19
+00:01:11,508 --> 00:01:14,700
+She sits on the second chair.
+
+20
+00:01:15,500 --> 00:01:18,812
+"This chair is too soft!"
+
+21
+00:01:19,612 --> 00:01:22,708
+She sits on the third chair.
+
+22
+00:01:23,508 --> 00:01:26,436
+"This chair is perfect!"
+
+23
+00:01:27,236 --> 00:01:29,948
+But the chair breaks!
+
+24
+00:01:30,748 --> 00:01:33,892
+Goldilocks falls to the ground.
+
+25
+00:01:34,692 --> 00:01:37,788
+Then she goes upstairs.
+
+26
+00:01:38,588 --> 00:01:41,012
+She sees three beds.
+
+27
+00:01:41,812 --> 00:01:44,812
+She lies on the first bed.
+
+28
+00:01:45,612 --> 00:01:48,588
+"This bed is too hard!"
+
+29
+00:01:49,388 --> 00:01:52,580
+She lies on the second bed.
+
+30
+00:01:53,380 --> 00:01:56,692
+"This bed is too soft!"
+
+31
+00:01:57,492 --> 00:02:00,612
+She lies on the third bed.
+
+32
+00:02:01,412 --> 00:02:04,316
+"This bed is perfect!"
+
+33
+00:02:05,116 --> 00:02:07,420
+She falls asleep.
+
+34
+00:02:08,220 --> 00:02:11,436
+The three bears come home.
+
+35
+00:02:12,236 --> 00:02:17,252
+Papa Bear says: "Someone ate my soup!"
+
+36
+00:02:18,052 --> 00:02:23,092
+Mama Bear says: "Someone ate my soup!"
+
+37
+00:02:23,892 --> 00:02:29,316
+Little Bear says: "Someone ate all my soup!"
+
+38
+00:02:30,116 --> 00:02:35,300
+Papa Bear says: "Someone sat on my chair!"
+
+39
+00:02:36,100 --> 00:02:40,876
+Little Bear says: "Someone broke my chair!"
+
+40
+00:02:41,676 --> 00:02:44,724
+They go upstairs.
+
+41
+00:02:45,524 --> 00:02:50,204
+Little Bear says: "Someone is sleeping in my bed!"
+
+42
+00:02:51,004 --> 00:02:53,908
+Goldilocks wakes up.
+
+43
+00:02:54,708 --> 00:02:57,228
+She sees the three bears.
+
+44
+00:02:58,028 --> 00:03:01,508
+"Help!" shouts Goldilocks.
+
+45
+00:03:02,308 --> 00:03:05,092
+She runs out of the house.
+
+46
+00:03:05,892 --> 00:03:08,268
+She runs into the forest.
+
+47
+00:03:09,068 --> 00:03:11,540
+She never comes back.

@@ -1,0 +1,153 @@
+====================================================
+  LAUNCH CHECKLIST — Graded Classics Italian Channel
+====================================================
+
+[ ] = pending  [x] = done  [~] = in progress
+
+
+DAY 1-2: PRODUCTION
+────────────────────────────────────
+
+[x] Write story JSONs (4 stories)
+    - tre-porcellini.json (46 lines, A1)
+    - riccioli-doro.json (47 lines, A1)
+    - romeo-giulietta.json (62 lines, A1-A2)
+    - dante-inferno.json (49 lines, A1-A2)
+
+[ ] Install TTS dependencies
+    pip install kokoro soundfile torch
+    (fallback: pip install edge-tts)
+
+[ ] Run batch production
+    bash scripts/batch-produce.sh
+    Outputs: audio + SRT for all 4 stories
+
+[ ] Generate video visuals (per story)
+    Option A: NotebookLM
+      - Go to notebooklm.google.com
+      - Create notebook, paste story text
+      - Generate video, download .mp4
+    Option B: AI image generation
+      - Use Midjourney/SDXL with prompts from THUMBNAIL_SPECS.txt
+      - Create slideshow with Ken Burns zoom effect
+
+[ ] Combine final videos
+    node scripts/make-video.mjs tre-porcellini
+    node scripts/make-video.mjs riccioli-doro
+    node scripts/make-video.mjs romeo-giulietta
+    node scripts/make-video.mjs dante-inferno
+
+
+DAY 2-3: CHROME EXTENSION
+────────────────────────────────────
+
+[ ] Test extension on YouTube
+    - Load unpacked: chrome://extensions
+    - Navigate to any Italian YouTube video
+    - Verify: words become clickable in captions
+    - Verify: popup shows CEFR level + conjugation
+    - Verify: Save button works
+
+[ ] Test Anki integration
+    - Install Anki + AnkiConnect add-on
+    - Keep Anki open
+    - Click "Add to Anki" on a word
+    - Verify: CameraCafe::A1 deck created
+    - Verify: card has Italian, CEFR level, TTS audio
+    - Verify: bulk export works from Anki tab
+
+[ ] Test on own story videos
+    - Upload a story video (unlisted)
+    - Enable Italian subtitles
+    - Verify extension works with our content
+
+
+DAY 3-4: YOUTUBE UPLOAD
+────────────────────────────────────
+
+Upload order (release 2 days apart):
+  1. Goldilocks (lowest barrier, familiar story)
+  2. Three Little Pigs (2 days later)
+  3. Romeo & Juliet (2 days later)
+  4. Dante's Inferno (finale, 2 days later)
+
+Per video:
+[ ] Upload final .mp4
+[ ] Copy title/description from youtube-metadata.json
+[ ] Upload Italian SRT as subtitles
+[ ] Upload English SRT as subtitles
+[ ] Add end screen linking to next video
+[ ] Set thumbnail (from THUMBNAIL_SPECS)
+[ ] Add to playlist: "Graded Classics — A1 Italian"
+[ ] Schedule publication time: Tuesday/Thursday 9am EST
+
+
+DAY 4-5: MARKETING BLITZ
+────────────────────────────────────
+
+[ ] Twitter/X: Post thread (from LAUNCH_COPY.txt)
+    - Tuesday 9am EST
+    - Pin to profile
+
+[ ] Reddit: Post to r/italianlearning
+    - Use the prepared post from LAUNCH_COPY.txt
+    - Also post to: r/languagelearning, r/Italian
+
+[ ] LinkedIn: Post ed-tech angle
+    - Target: language teachers, ed-tech founders
+
+[ ] TikTok/Reels: Record 15s hook video
+    - Script A or C from LAUNCH_COPY.txt
+
+[ ] Email/Substack: Send newsletter
+    - Use prepared copy
+
+
+WEEK 2: MONETIZATION SETUP
+────────────────────────────────────
+
+[ ] Chrome Web Store
+    - Create developer account ($5)
+    - Submit extension for review
+    - Free tier: all current features
+    - Premium ideas: unlimited Anki sync, custom word lists
+
+[ ] YouTube monetization
+    - Enable after 500 subscribers + 3000 watch hours
+    - Until then: focus on growth
+
+[ ] Gumroad / Patreon
+    - Sell: complete Anki deck (all stories, pre-made)
+    - Sell: premium story pack (request custom stories)
+
+
+ONGOING: CONTENT PIPELINE
+────────────────────────────────────
+
+Season 1 — A1 Only (10 stories):
+[ ] Cinderella (Cenerentola)
+[ ] Little Red Riding Hood (Cappuccetto Rosso)
+[ ] Snow White (Biancaneve)
+[ ] Ugly Duckling (Il Brutto Anatroccolo)
+[ ] Sleeping Beauty (La Bella Addormentata)
+[ ] Pinocchio (A2)
+
+Season 2 — Graded Classics:
+[ ] Plato's Cave (A1)
+[ ] Leonardo da Vinci biography (A1)
+[ ] Pompeii (A1-A2)
+[ ] Marco Polo (A2)
+[ ] Galileo (A2)
+[ ] Einstein biography (A2)
+
+Generate with: node scripts/generate-stories.mjs <story-id>
+(requires Ollama running with qwen3:8b)
+
+
+METRICS TO TRACK
+────────────────────────────────────
+
+Week 1: Views, click-through rate, average watch time
+Week 2: Subscriber count, Reddit engagement
+Week 4: Extension installs, Anki exports
+Week 8: Revenue (if monetized), repeat viewers

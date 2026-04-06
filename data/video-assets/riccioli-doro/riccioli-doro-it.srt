@@ -1,0 +1,187 @@
+1
+00:00:01,500 --> 00:00:04,596
+C'era una volta una bambina.
+
+2
+00:00:05,396 --> 00:00:08,564
+Il suo nome era Riccioli d'Oro.
+
+3
+00:00:09,364 --> 00:00:12,340
+Ha i capelli biondi e ricci.
+
+4
+00:00:13,140 --> 00:00:16,764
+Un giorno, cammina nel bosco.
+
+5
+00:00:17,564 --> 00:00:20,420
+Vede una casa piccola.
+
+6
+00:00:21,220 --> 00:00:23,836
+La porta è aperta.
+
+7
+00:00:24,636 --> 00:00:27,876
+Riccioli d'Oro entra nella casa.
+
+8
+00:00:28,676 --> 00:00:32,684
+Sul tavolo ci sono tre piatti di minestra.
+
+9
+00:00:33,484 --> 00:00:36,268
+Prova la prima minestra.
+
+10
+00:00:37,068 --> 00:00:40,476
+"Questa minestra è troppo calda!"
+
+11
+00:00:41,276 --> 00:00:44,252
+Prova la seconda minestra.
+
+12
+00:00:45,052 --> 00:00:48,388
+"Questa minestra è troppo fredda!"
+
+13
+00:00:49,188 --> 00:00:52,044
+Prova la terza minestra.
+
+14
+00:00:52,844 --> 00:00:55,964
+"Questa minestra è perfetta!"
+
+15
+00:00:56,764 --> 00:00:59,668
+Mangia tutta la minestra.
+
+16
+00:01:00,468 --> 00:01:03,060
+Poi vede tre sedie.
+
+17
+00:01:03,860 --> 00:01:06,884
+Si siede sulla prima sedia.
+
+18
+00:01:07,684 --> 00:01:10,708
+"Questa sedia è troppo dura!"
+
+19
+00:01:11,508 --> 00:01:14,700
+Si siede sulla seconda sedia.
+
+20
+00:01:15,500 --> 00:01:18,812
+"Questa sedia è troppo morbida!"
+
+21
+00:01:19,612 --> 00:01:22,708
+Si siede sulla terza sedia.
+
+22
+00:01:23,508 --> 00:01:26,436
+"Questa sedia è perfetta!"
+
+23
+00:01:27,236 --> 00:01:29,948
+Ma la sedia si rompe!
+
+24
+00:01:30,748 --> 00:01:33,892
+Riccioli d'Oro cade per terra.
+
+25
+00:01:34,692 --> 00:01:37,788
+Poi sale al piano di sopra.
+
+26
+00:01:38,588 --> 00:01:41,012
+Vede tre letti.
+
+27
+00:01:41,812 --> 00:01:44,812
+Si sdraia sul primo letto.
+
+28
+00:01:45,612 --> 00:01:48,588
+"Questo letto è troppo duro!"
+
+29
+00:01:49,388 --> 00:01:52,580
+Si sdraia sul secondo letto.
+
+30
+00:01:53,380 --> 00:01:56,692
+"Questo letto è troppo morbido!"
+
+31
+00:01:57,492 --> 00:02:00,612
+Si sdraia sul terzo letto.
+
+32
+00:02:01,412 --> 00:02:04,316
+"Questo letto è perfetto!"
+
+33
+00:02:05,116 --> 00:02:07,420
+Si addormenta.
+
+34
+00:02:08,220 --> 00:02:11,436
+I tre orsi tornano a casa.
+
+35
+00:02:12,236 --> 00:02:17,252
+Papà Orso dice: "Qualcuno ha mangiato la mia minestra!"
+
+36
+00:02:18,052 --> 00:02:23,092
+Mamma Orso dice: "Qualcuno ha mangiato la mia minestra!"
+
+37
+00:02:23,892 --> 00:02:29,316
+Piccolo Orso dice: "Qualcuno ha mangiato tutta la mia minestra!"
+
+38
+00:02:30,116 --> 00:02:35,300
+Papà Orso dice: "Qualcuno si è seduto sulla mia sedia!"
+
+39
+00:02:36,100 --> 00:02:40,876
+Piccolo Orso dice: "Qualcuno ha rotto la mia sedia!"
+
+40
+00:02:41,676 --> 00:02:44,724
+Salgono al piano di sopra.
+
+41
+00:02:45,524 --> 00:02:50,204
+Piccolo Orso dice: "Qualcuno dorme nel mio letto!"
+
+42
+00:02:51,004 --> 00:02:53,908
+Riccioli d'Oro si sveglia.
+
+43
+00:02:54,708 --> 00:02:57,228
+Vede i tre orsi.
+
+44
+00:02:58,028 --> 00:03:01,508
+"Aiuto!" urla Riccioli d'Oro.
+
+45
+00:03:02,308 --> 00:03:05,092
+Corre fuori dalla casa.
+
+46
+00:03:05,892 --> 00:03:08,268
+Corre nel bosco.
+
+47
+00:03:09,068 --> 00:03:11,540
+Non torna mai più.

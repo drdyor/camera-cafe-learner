@@ -1,0 +1,58 @@
+{
+  "id": "gcse-theme3-school-career",
+  "title": "Il Mio Futuro: Scuola e Lavoro",
+  "englishTitle": "My Future: School and Work",
+  "level": "A1-A2",
+  "gcseTheme": "Theme 3: Current and Future Study and Employment",
+  "gcseTopic": "School Life + Career Choices",
+  "examFocus": "Speaking role play (school), future plans, job preferences, ambitions",
+  "lines": [
+    {"italian": "Studio alla scuola superiore. Sono in terza.", "english": "I study at high school. I am in year 10 (third year)."},
+    {"italian": "La mia scuola si chiama Greenfield College.", "english": "My school is called Greenfield College."},
+    {"italian": "È una scuola grande. Ci sono mille studenti.", "english": "It is a big school. There are a thousand students."},
+    {"italian": "Le mie materie preferite sono italiano e storia.", "english": "My favorite subjects are Italian and history."},
+    {"italian": "Studio l'italiano da tre anni.", "english": "I have been studying Italian for three years."},
+    {"italian": "Non mi piace la matematica. È difficile.", "english": "I don't like math. It is difficult."},
+    {"italian": "La scienza è interessante ma complicata.", "english": "Science is interesting but complicated."},
+    {"italian": "Gli esami sono il prossimo anno.", "english": "The exams are next year."},
+    {"italian": "Devo studiare molto per gli esami.", "english": "I must study a lot for the exams."},
+    {"italian": "Dopo la scuola vorrei andare all'università.", "english": "After school I would like to go to university."},
+    {"italian": "Voglio studiare lingue. Mi piacciono le lingue.", "english": "I want to study languages. I like languages."},
+    {"italian": "Penso che l'italiano sia utile.", "english": "I think that Italian is useful."},
+    {"italian": "In futuro vorrei lavorare all'estero.", "english": "In the future I would like to work abroad."},
+    {"italian": "Il mio lavoro ideale è insegnante.", "english": "My ideal job is teacher."},
+    {"italian": "Vorrei insegnare l'italiano in Inghilterra.", "english": "I would like to teach Italian in England."},
+    {"italian": "Mio padre è ingegnere. Lavora in un ufficio.", "english": "My father is an engineer. He works in an office."},
+    {"italian": "Mia madre è avvocata. Lei aiuta le persone.", "english": "My mother is a lawyer. She helps people."},
+    {"italian": "Non voglio lavorare in ufficio.", "english": "I don't want to work in an office."},
+    {"italian": "Preferisco lavorare con gli studenti.", "english": "I prefer to work with students."},
+    {"italian": "Lo stipendio non è l'importante per me.", "english": "Salary is not the important thing for me."},
+    {"italian": "Voglio un lavoro che mi piaccia.", "english": "I want a job that I like."},
+    {"italian": "Dopo l'università cercherò lavoro.", "english": "After university I will look for work."},
+    {"italian": "Forse andrò in Italia a cercare lavoro.", "english": "Maybe I will go to Italy to look for work."},
+    {"italian": "Milano e Roma hanno molte opportunità.", "english": "Milan and Rome have many opportunities."},
+    {"italian": "Devo migliorare il mio italiano.", "english": "I must improve my Italian."},
+    {"italian": "Faccio pratica tutti i giorni.", "english": "I practice every day."},
+    {"italian": "Guardo film italiani e leggo libri.", "english": "I watch Italian films and read books."},
+    {"italian": "Studio con questa applicazione.", "english": "I study with this application."},
+    {"italian": "Sono sicuro che ce la farò.", "english": "I am sure that I will succeed."},
+    {"italian": "Il futuro è pieno di possibilità.", "english": "The future is full of possibilities."}
+  ],
+  "gcseVocabulary": {
+    "school": ["scuola", "studenti", "materie", "esami", "studiare"],
+    "subjects": ["italiano", "storia", "matematica", "scienza", "lingue"],
+    "jobs": ["insegnante", "ingegnere", "avvocata", "lavoro", "ufficio"],
+    "future": ["futuro", "università", "vorrei", "dopo"]
+  },
+  "examPractice": {
+    "rolePlay": "Talk about your school. What subjects do you study? What do you like/dislike?",
+    "futurePlans": "What will you do after GCSE? Do you want to go to university? What job?",
+    "jobPreferences": "What is your ideal job? Why? Where will you work?",
+    "translationDrill": [
+      {"en": "I study at high school", "it": "Studio alla scuola superiore"},
+      {"en": "I want to go to university", "it": "Voglio andare all'università"},
+      {"en": "My ideal job is teacher", "it": "Il mio lavoro ideale è insegnante"}
+    ]
+  },
+  "generatedAt": "2026-04-05T22:00:00.000Z"
+}
