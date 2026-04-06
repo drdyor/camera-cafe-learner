@@ -79,6 +79,7 @@ export const rooms: Room[] = [
           { word: 'pasta', x: 25, y: 35 }, { word: 'riso', x: 55, y: 30 },
           { word: 'olio', x: 35, y: 55 }, { word: 'sale', x: 65, y: 50 },
           { word: 'zucchero', x: 45, y: 75 }, { word: 'pane', x: 75, y: 70 },
+          { word: 'cucinare', x: 30, y: 85 },
         ]
       },
       { 
@@ -93,7 +94,7 @@ export const rooms: Room[] = [
         interiorVocab: [
           { word: 'pentola', x: 30, y: 40 }, { word: 'padella', x: 60, y: 35 },
           { word: 'coltello', x: 25, y: 65 }, { word: 'forchetta', x: 50, y: 60 },
-          { word: 'cucchiaio', x: 75, y: 55 },
+          { word: 'cucchiaio', x: 75, y: 55 }, { word: 'tagliare', x: 40, y: 85 },
         ]
       },
       { 
@@ -108,6 +109,7 @@ export const rooms: Room[] = [
         interiorVocab: [
           { word: 'piatto', x: 30, y: 45 }, { word: 'bicchiere', x: 60, y: 40 },
           { word: 'tovagliolo', x: 45, y: 65 }, { word: 'caffè', x: 75, y: 55 },
+          { word: 'mangiare', x: 35, y: 80 },
         ]
       },
     ],
